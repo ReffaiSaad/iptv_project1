@@ -1,0 +1,21 @@
+# robots.txt — IPTV Premium (iptvpremium.se)
+# Generated: 2026-06-19
+
+User-agent: *
+
+# Autorise tout le site
+Allow: /
+
+# Bloque les pages système (noindex)
+Disallow: /merci.html
+
+# Bloque les répertoires inutiles
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /*.json$
+
+# Sitemap
+Sitemap: https://iptvpremium.se/sitemap.xml
+
+# Délai de politesse pour les robots (optionnel)
+Crawl-delay: 1
