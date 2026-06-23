@@ -2,20 +2,9 @@
 # Updated: 2026-06-23
 
 User-agent: *
-
-# Allow all public content
 Allow: /
-
-# Block internal or utility pages
 Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /merci.html
 
-# Sitemap location
 Sitemap: https://streamplanettv.online/sitemap.xml
-
-# AI-readable content index
-LLMs: https://streamplanettv.online/llms.txt
-
-# Optional politeness
-Crawl-delay: 1

@@ -1,8 +1,4 @@
-# StreamPlanetTV — llms.txt
-# Standard file for AI language model discovery
-# See: https://llmstxt.org/
-
-# StreamPlanetTV — IPTV Premium Service
+# StreamPlanetTV
 
 > StreamPlanetTV is a premium IPTV subscription service offering access to over 20,000 live TV channels and video-on-demand content in 4K UHD quality, with a stable and reliable streaming infrastructure. A free 24-hour trial is available via WhatsApp.
 
@@ -10,10 +6,10 @@
 
 StreamPlanetTV provides IPTV subscriptions for customers in the Netherlands, France, Belgium, and other European countries. The service focuses on stability, high-definition quality, and 24/7 technical support.
 
-- **Website**: https://streamplanettv.online/
-- **Contact**: via WhatsApp on the contact page
-- **Languages**: Dutch (NL), French (FR), English (EN)
-- **Free trial**: 24 hours, no credit card required
+- Website: https://streamplanettv.online/
+- Contact: via WhatsApp on the contact page
+- Languages: Dutch (NL), French (FR), English (EN)
+- Free trial: 24 hours, no credit card required
 
 ## Services
 
@@ -48,8 +44,8 @@ StreamPlanetTV provides IPTV subscriptions for customers in the Netherlands, Fra
 
 ## Legal
 
-- [Privacy Policy](https://streamplanettv.online/politique-confidentialite.html)
-- [Terms and Conditions](https://streamplanettv.online/conditions-generales.html)
+- [Privacy Policy](https://streamplanettv.online/privacy.html)
+- [Terms and Conditions](https://streamplanettv.online/terms.html)
 - [Cookie Policy](https://streamplanettv.online/politique-cookies.html)
 - [Refund Policy](https://streamplanettv.online/politique-remboursement.html)
 - [Disclaimer](https://streamplanettv.online/clause-non-responsabilite.html)
