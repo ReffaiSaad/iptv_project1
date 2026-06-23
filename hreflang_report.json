@@ -1,0 +1,484 @@
+{
+  "report": {
+    "404.html": {
+      "canonical": "https://streamplanettv.online/404.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/404.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "a-propos.html": {
+      "canonical": "https://streamplanettv.online/a-propos.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/a-propos.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "android-tv.html": {
+      "canonical": "https://streamplanettv.online/android-tv.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/android-tv.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "avantages.html": {
+      "canonical": "https://streamplanettv.online/avantages.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/avantages.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "avis.html": {
+      "canonical": "https://streamplanettv.online/avis.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/avis.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "blog.html": {
+      "canonical": "https://streamplanettv.online/blog.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/blog.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "chaines.html": {
+      "canonical": "https://streamplanettv.online/chaines.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/chaines.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "clause-non-responsabilite.html": {
+      "canonical": "https://streamplanettv.online/clause-non-responsabilite.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/clause-non-responsabilite.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "conditions-generales.html": {
+      "canonical": "https://streamplanettv.online/conditions-generales.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/conditions-generales.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "contact.html": {
+      "canonical": "https://streamplanettv.online/contact.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/contact.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "essai-gratuit.html": {
+      "canonical": "https://streamplanettv.online/essai-gratuit.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/essai-gratuit.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "faq.html": {
+      "canonical": "https://streamplanettv.online/faq.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/faq.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "firestick.html": {
+      "canonical": "https://streamplanettv.online/firestick.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/firestick.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "formuler-enigma.html": {
+      "canonical": "https://streamplanettv.online/formuler-enigma.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/formuler-enigma.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "index.html": {
+      "canonical": "https://streamplanettv.online/",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/"
+        },
+        {
+          "hreflang": "fr-FR",
+          "href": "https://streamplanettv.online/fr/"
+        },
+        {
+          "hreflang": "en-US",
+          "href": "https://streamplanettv.online/en/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "installation.html": {
+      "canonical": "https://streamplanettv.online/installation.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/installation.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "ios.html": {
+      "canonical": "https://streamplanettv.online/ios.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/ios.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "mag-box.html": {
+      "canonical": "https://streamplanettv.online/mag-box.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/mag-box.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "merci.html": {
+      "canonical": "https://streamplanettv.online/merci.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/merci.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "pc-mac.html": {
+      "canonical": "https://streamplanettv.online/pc-mac.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/pc-mac.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "plan-du-site.html": {
+      "canonical": "https://streamplanettv.online/plan-du-site.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/plan-du-site.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "politique-confidentialite.html": {
+      "canonical": "https://streamplanettv.online/politique-confidentialite.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/politique-confidentialite.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "politique-cookies.html": {
+      "canonical": "https://streamplanettv.online/politique-cookies.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/politique-cookies.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "politique-remboursement.html": {
+      "canonical": "https://streamplanettv.online/politique-remboursement.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/politique-remboursement.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "privacy.html": {
+      "canonical": "https://streamplanettv.online/privacy.html",
+      "alternates": [
+        {
+          "hreflang": "nl",
+          "href": "https://streamplanettv.online/privacy.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "smart-tv.html": {
+      "canonical": "https://streamplanettv.online/smart-tv.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/smart-tv.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "tarifs.html": {
+      "canonical": "https://streamplanettv.online/tarifs.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/tarifs.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "terms.html": {
+      "canonical": "https://streamplanettv.online/terms.html",
+      "alternates": [
+        {
+          "hreflang": "nl",
+          "href": "https://streamplanettv.online/terms.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "blog/abonnement-iptv-premium.html": {
+      "canonical": "https://streamplanettv.online/blog/abonnement-iptv-premium.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/blog/abonnement-iptv-premium.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "blog/installer-iptv-smart-tv.html": {
+      "canonical": "https://streamplanettv.online/blog/installer-iptv-smart-tv.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/blog/installer-iptv-smart-tv.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "blog/iptv-france-legal.html": {
+      "canonical": "https://streamplanettv.online/blog/iptv-france-legal.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/blog/iptv-france-legal.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "blog/meilleur-iptv-france.html": {
+      "canonical": "https://streamplanettv.online/blog/meilleur-iptv-france.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/blog/meilleur-iptv-france.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "blog/tutoriel-iptv-firestick.html": {
+      "canonical": "https://streamplanettv.online/blog/tutoriel-iptv-firestick.html",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/blog/tutoriel-iptv-firestick.html"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "en/index.html": {
+      "canonical": "https://streamplanettv.online/en/",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/"
+        },
+        {
+          "hreflang": "fr-FR",
+          "href": "https://streamplanettv.online/fr/"
+        },
+        {
+          "hreflang": "en-US",
+          "href": "https://streamplanettv.online/en/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    },
+    "fr/index.html": {
+      "canonical": "https://streamplanettv.online/fr/",
+      "alternates": [
+        {
+          "hreflang": "nl-NL",
+          "href": "https://streamplanettv.online/"
+        },
+        {
+          "hreflang": "fr-FR",
+          "href": "https://streamplanettv.online/fr/"
+        },
+        {
+          "hreflang": "en-US",
+          "href": "https://streamplanettv.online/en/"
+        },
+        {
+          "hreflang": "x-default",
+          "href": "https://streamplanettv.online/"
+        }
+      ]
+    }
+  },
+  "issues": {}
+}
