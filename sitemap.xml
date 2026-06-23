@@ -1,214 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <!-- ══ PAGES PRINCIPALES ══ -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iptvpremium.se/</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://iptvpremium.se/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://iptvpremium.se/"/>
+    <loc>https://streamplanettv.online/</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/avantages.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://streamplanettv.online/404.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/tarifs.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <loc>https://streamplanettv.online/a-propos.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/chaines.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
+    <loc>https://streamplanettv.online/android-tv.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/installation.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
+    <loc>https://streamplanettv.online/avantages.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/essai-gratuit.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://streamplanettv.online/avis.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/faq.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://streamplanettv.online/blog.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/avis.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://streamplanettv.online/blog/abonnement-iptv-premium.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/a-propos.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://streamplanettv.online/blog/installer-iptv-smart-tv.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/contact.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://streamplanettv.online/blog/iptv-france-legal.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
-  <!-- ══ PAGES APPAREILS ══ -->
   <url>
-    <loc>https://iptvpremium.se/smart-tv.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://streamplanettv.online/blog/meilleur-iptv-france.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/android-tv.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://streamplanettv.online/blog/tutoriel-iptv-firestick.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/firestick.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://streamplanettv.online/chaines.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/ios.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
+    <loc>https://streamplanettv.online/clause-non-responsabilite.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/mag-box.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
+    <loc>https://streamplanettv.online/conditions-generales.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/pc-mac.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.75</priority>
+    <loc>https://streamplanettv.online/contact.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/formuler-enigma.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://streamplanettv.online/en/index.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
-  <!-- ══ BLOG ══ -->
   <url>
-    <loc>https://iptvpremium.se/blog.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://streamplanettv.online/essai-gratuit.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/blog/meilleur-iptv-france.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
+    <loc>https://streamplanettv.online/faq.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/blog/abonnement-iptv-premium.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.85</priority>
+    <loc>https://streamplanettv.online/firestick.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/blog/iptv-france-legal.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://streamplanettv.online/formuler-enigma.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/blog/installer-iptv-smart-tv.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://streamplanettv.online/fr/index.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/blog/tutoriel-iptv-firestick.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <loc>https://streamplanettv.online/installation.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
-  <!-- ══ PAGES LÉGALES ══ -->
   <url>
-    <loc>https://iptvpremium.se/conditions-generales.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
+    <loc>https://streamplanettv.online/ios.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/politique-confidentialite.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
+    <loc>https://streamplanettv.online/mag-box.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/politique-remboursement.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
+    <loc>https://streamplanettv.online/merci.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/politique-cookies.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
+    <loc>https://streamplanettv.online/pc-mac.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/clause-non-responsabilite.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <loc>https://streamplanettv.online/plan-du-site.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
   <url>
-    <loc>https://iptvpremium.se/plan-du-site.html</loc>
-    <lastmod>2026-06-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://streamplanettv.online/politique-confidentialite.html</loc>
+    <lastmod>2026-06-23</lastmod>
   </url>
-
+  <url>
+    <loc>https://streamplanettv.online/politique-cookies.html</loc>
+    <lastmod>2026-06-23</lastmod>
+  </url>
+  <url>
+    <loc>https://streamplanettv.online/politique-remboursement.html</loc>
+    <lastmod>2026-06-23</lastmod>
+  </url>
+  <url>
+    <loc>https://streamplanettv.online/privacy.html</loc>
+    <lastmod>2026-06-23</lastmod>
+  </url>
+  <url>
+    <loc>https://streamplanettv.online/smart-tv.html</loc>
+    <lastmod>2026-06-23</lastmod>
+  </url>
+  <url>
+    <loc>https://streamplanettv.online/tarifs.html</loc>
+    <lastmod>2026-06-23</lastmod>
+  </url>
+  <url>
+    <loc>https://streamplanettv.online/terms.html</loc>
+    <lastmod>2026-06-23</lastmod>
+  </url>
 </urlset>

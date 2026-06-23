@@ -1,21 +1,18 @@
-# robots.txt — IPTV Premium (iptvpremium.se)
-# Generated: 2026-06-19
+# robots.txt — StreamPlanetTV
+# Updated: 2026-06-23
 
 User-agent: *
 
-# Autorise tout le site
+# Allow all public content
 Allow: /
 
-# Bloque les pages système (noindex)
-Disallow: /merci.html
-
-# Bloque les répertoires inutiles
+# Block internal or utility pages
 Disallow: /cgi-bin/
 Disallow: /tmp/
-Disallow: /*.json$
+Disallow: /merci.html
 
-# Sitemap
-Sitemap: https://iptvpremium.se/sitemap.xml
+# Sitemap location
+Sitemap: https://streamplanettv.online/sitemap.xml
 
-# Délai de politesse pour les robots (optionnel)
+# Optional politeness
 Crawl-delay: 1
