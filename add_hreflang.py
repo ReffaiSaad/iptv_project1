@@ -3,7 +3,8 @@
 import os
 from pathlib import Path
 root = Path(__file__).parent
-base = 'https://streamplanettv.online'
+# Use site-root relative paths to avoid absolute domain links during static generation
+base = ''
 # Use language-region codes (ISO 639-1 + ISO 3166-1 alpha-2)
 # Default mapping: Dutch (Netherlands), French (France), English (US).
 langs = [('nl-NL',''), ('fr-FR','fr/'), ('en-US','en/')]

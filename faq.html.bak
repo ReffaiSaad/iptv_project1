@@ -1,0 +1,455 @@
+﻿<!DOCTYPE html>
+<html lang="nl" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ══ SEO — Titre & Description (Yoast 2026) ══ -->
+  <title>FAQ Beste IPTV — Veelgestelde Vragen over IPTV Premium</title>
+  <meta name="description" content="Vind antwoorden op al uw vragen over onze IPTV service in Nederland. Ontdek wat de beste IPTV app is, wat IPTV kost, en of IPTV legaal of illegaal is.">
+  <meta name="keywords" content="de beste iptv, wat is de beste iptv, wat is de beste iptv app, welke iptv app is het beste, welke iptv is de beste, welke iptv is het beste, wat kost iptv, welke iptv app voor samsung tv, is iptv legaal, is iptv illegaal, what is iptv">
+  <meta name="author" content="IPTV Premium">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://streamplanettv.online/faq.html">
+  <link rel="alternate" hreflang="nl-NL" href="https://streamplanettv.online/faq.html">
+  <link rel="alternate" hreflang="x-default" href="https://streamplanettv.online/">
+
+  <!-- ══ SEO — Open Graph ══ -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="nl_NL">
+  <meta property="og:title" content="FAQ Beste IPTV — Veelgestelde Vragen over IPTV Premium">
+  <meta property="og:description" content="Heeft u vragen over de installatie, zenders of tarieven? Bekijk onze uitgebreide FAQ met 16 gedetailleerde antwoorden.">
+  <meta property="og:image" content="https://streamplanettv.online/logo.svg">
+  <meta property="og:url" content="https://streamplanettv.online/faq.html">
+  <meta property="og:site_name" content="IPTV Premium">
+
+  <!-- ══ SEO — Twitter Card ══ -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="FAQ Beste IPTV — Veelgestelde Vragen &amp; Support">
+  <meta name="twitter:description" content="Alles over zenderstabiliteit, compatibiliteit met Samsung TV and de beste IPTV apps op de markt.">
+  <meta name="twitter:image" content="https://streamplanettv.online/logo.svg">
+
+  <link rel="icon" type="image/png" href="./favicon.png">
+  <link rel="apple-touch-icon" href="./favicon.png">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- ══ SEO — Données structurées Schema.org (FAQPage) ══ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "FAQPage",
+        "@id": "https://streamplanettv.online/faq.html#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Wat is IPTV?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "IPTV staat voor Internet Protocol Television. Dit is een moderne technologie waarmee televisiezenders, live-uitzendingen en VOD (Video on Demand) via het internet worden gestreamd in plaats van via traditionele kabel-, satelliet- of antenneaansluitingen. Met een stabiele internetverbinding kunt u overal ter wereld genieten van uw favoriete programma's op elk gewenst apparaat. Dit beantwoordt direct de vraag what is iptv en hoe het verschilt van traditionele tv."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Wat is de beste IPTV?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Als u op zoek bent naar de beste iptv, dan springt IPTV Premium eruit vanwege de ongeëvenaarde serverstabiliteit, snelle zaptijden en een gigantisch aanbod van meer dan 20.000 live zenders en VOD in 4K UHD-kwaliteit. Dus op de vraag wat is de beste iptv, is ons antwoord simpel: IPTV Premium biedt de meest stabiele en complete IPTV-ervaring van Nederland en België."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Welke IPTV is het beste?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Om te bepalen welke iptv is de beste of welke iptv is het beste voor uw specifieke situatie, moet u kijken naar zenderstabiliteit en de kwaliteit van de streams. IPTV Premium garandeert een uptime van 99,9% door het gebruik van load-balanced servers in Europa. Dit zorgt ervoor dat uw verbinding stabiel blijft tijdens grote sportwedstrijden of live events, waardoor het de beste keuze is op de markt. Dus als u zich afvraagt welke iptv is de beste, kies dan voor onze service."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Welke IPTV app is het beste?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Op de vraag welke iptv app is het beste of wat is de beste iptv app raden wij applicaties zoals IPTV Smarters Pro, TiviMate of IBO Player aan. TiviMate is veruit de meest geavanceerde en vloeiende app voor Android TV Boxen. Voor Smart TV's van Samsung of LG is IBO Player de absolute favoriet vanwege de intuïtieve interface en snelle zaptijden."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Welke IPTV app voor Samsung TV?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Vraagt u zich af welke iptv app voor samsung tv het meest geschikt is? Wij raden IBO Player aan. Deze app is eenvoudig te downloaden via de Samsung App Store, laadt uw afspeellijst in enkele seconden en ondersteunt 4K-streams en EPG (elektronische programmagids). Andere uitstekende alternatieven voor Samsung en LG connect TV's zijn Smart IPTV en Net IPTV."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Wat kost IPTV?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Wat kost iptv bij ons? Onze tarieven beginnen al vanaf een zeer scherpe prijs per maand voor het jaarabonnement. We bieden 3 pakketten: een 3-maanden pakket voor €199, een 6-maanden pakket voor €299, en ons populaire 12-maanden pakket voor €499. Dit zijn all-in tarieven zonder verborgen kosten, inclusief alle updates en VIP klantenservice via WhatsApp."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is IPTV legaal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "De vraag is iptv legaal hangt af van hoe de zenders worden gedistribueerd. De technologie achter IPTV is volledig legaal en wordt ook gebruikt door grote providers zoals KPN en Ziggo. Echter, het aanbieden of bekijken van auteursrechtelijk beschermde content zonder toestemming van de rechthebbenden is illegaal."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is IPTV illegaal?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "IPTV is illegaal als u een abonnement aanschaft bij een service die auteursrechtelijk beschermde tv-zenders en films streamt zonder de officiële licenties en rechten hiervoor te bezitten. Het is daarom belangrijk om te kiezen voor een betrouwbare en legitieme aanbieder."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Hoe werkt IPTV?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hoe werkt IPTV? Nadat u uw abonnement heeft aangeschaft, ontvangt u van ons een M3U-link of Xtream Codes-inloggegevens. U voert deze gegevens in op een compatibele IPTV app op uw Smart TV, TV Box of smartphone. Vervolgens worden alle zenders en films direct via het internet ingeladen op uw apparaat."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://streamplanettv.online/faq.html#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://streamplanettv.online/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "FAQ",
+            "item": "https://streamplanettv.online/faq.html"
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <a href="#main-content" class="skip-link">Naar hoofdinhoud gaan</a>
+
+  <!-- ══ HEADER ══ -->
+  <header class="site-header scrolled">
+    <div class="container header-row">
+      <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="avantages.html">Voordelen</a>
+        <a href="tarifs.html">Tarieven</a>
+        <a href="chaines.html">Zenders</a>
+        <a href="installation.html">Installatie</a>
+        <a href="faq.html" class="active">FAQ</a>
+        <a href="avis.html">Beoordelingen</a>
+        <a href="blog.html">Blog</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <a href="tarifs.html" class="btn btn-primary btn-sm">Abonneren</a>
+        <button class="nav-toggle" id="nav-toggle" aria-label="Menu openen" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    
+    <!-- ══ PAGE HEADER ══ -->
+    <section class="page-header">
+      <div class="container">
+        <div class="crumb"><a href="index.html">Home</a> &gt; <span>FAQ</span></div>
+        <h1>FAQ over de Beste IPTV Service</h1>
+        <p>Vind antwoorden op al uw vragen over de installatie, functies en stabiliteit van onze IPTV-abonnementen.</p>
+      </div>
+    </section>
+
+    <!-- ══ ACCORDION FAQ ══ -->
+    <section class="section">
+      <div class="container">
+        <div class="section-head center">
+          <h2>Veelgestelde Vragen &amp; Antwoorden</h2>
+          <p>Wat is de beste IPTV, welke IPTV app is het beste en hoe kunt u deze configureren? Lees hieronder onze uitgebreide antwoorden. Voor verdere hulp is onze WhatsApp support 24/7 bereikbaar.</p>
+        </div>
+
+        <div class="accordion" style="margin: 0 auto;">
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Wat is IPTV?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">IPTV staat voor Internet Protocol Television. Dit is een moderne technologie waarmee televisiezenders, live-uitzendingen en VOD (Video on Demand) via het internet worden gestreamd in plaats van via traditionele kabel-, satelliet- of antenneaansluitingen. Met een stabiele internetverbinding kunt u overal ter wereld genieten van uw favoriete programma's op elk gewenst apparaat. Dit beantwoordt direct de vraag <strong>what is iptv</strong> en hoe het verschilt van traditionele tv.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Wat is de beste IPTV aanbieder?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Als u op zoek bent naar <strong>de beste iptv</strong>, dan springt IPTV Premium eruit vanwege de ongeëvenaarde serverstabiliteit, snelle zaptijden en een gigantisch aanbod van meer dan 20.000 live zenders en VOD in 4K UHD-kwaliteit. Dus op de vraag <strong>wat is de beste iptv</strong>, is ons antwoord simpel: IPTV Premium biedt de meest stabiele en complete IPTV-ervaring van Nederland en België.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Welke IPTV is het beste for mij?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Om te bepalen <strong>welke iptv is de beste</strong> of <strong>welke iptv is het beste</strong> voor uw specifieke situatie, moet u kijken naar zenderstabiliteit en de kwaliteit van de streams. IPTV Premium garandeert een uptime van 99,9% door het gebruik van load-balanced servers in Europa. Dit zorgt ervoor dat uw verbinding stabiel blijft tijdens grote sportwedstrijden of live events, waardoor het de beste keuze is op de markt. Dus als u zich afvraagt <strong>welke iptv is de beste</strong> of <strong>welke iptv is het beste</strong>, kies dan voor onze service.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Welke IPTV app is het beste?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Op de vraag <strong>welke iptv app is het beste</strong> of <strong>wat is de beste iptv app</strong> raden wij applicaties zoals IPTV Smarters Pro, TiviMate of IBO Player aan. TiviMate is veruit de meest geavanceerde en vloeiende app voor Android TV Boxen. Voor Smart TV's van Samsung of LG is IBO Player de absolute favoriet vanwege de intuïtieve interface en snelle zaptijden.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Welke IPTV app voor Samsung TV moet ik choisir?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Vraagt u zich af <strong>welke iptv app voor samsung tv</strong> het meest geschikt is? Wij raden <strong>IBO Player</strong> aan. Deze app is eenvoudig te downloaden via de Samsung App Store, laadt uw afspeellijst in enkele seconden en deelt 4K-streams en EPG (elektronische programmagids) snel. Andere uitstekende alternatieven voor Samsung en LG connect TV's zijn Smart IPTV en Net IPTV.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Wat kost IPTV bij IPTV Premium?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner"><strong>Wat kost iptv</strong> bij ons? Onze tarieven beginnen al vanaf een zeer scherpe prijs per maand voor het jaarabonnement. We bieden 3 pakketten: een 3-maanden pakket voor €199, een 6-maanden pakket voor €299, en ons populaire 12-maanden pakket voor €499. Dit zijn all-in tarieven zonder verborgen kosten, inclusief alle updates en VIP klantenservice via WhatsApp.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Is IPTV legaal of illegaal?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">De vraag <strong>is iptv legaal</strong> of <strong>is iptv illegaal</strong> hangt af van hoe de zenders worden gedistribueerd. De technologie achter IPTV is volledig legaal en wordt ook gebruikt door grote providers zoals KPN en Ziggo. Echter, het aanbieden of bekijken van auteursrechtelijk beschermde content zonder toestemming van de rechthebbenden is illegaal. Het is daarom belangrijk om te kiezen voor een betrouwbare en transparante aanbieder.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Hoe werkt IPTV op mijn apparaten?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Hoe werkt IPTV? Nadat u uw abonnement heeft aangeschaft, ontvangt u van ons een M3U-link of Xtream Codes-inloggegevens. U voert deze gegevens in op een compatibele IPTV app op uw Smart TV, TV Box of smartphone. Vervolgens worden alle zenders en films direct via het internet ingeladen op uw apparaat.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Hoe snel wordt mijn IPTV geactiveerd?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">De activatie van uw IPTV Premium abonnement is erg snel. Zodra uw bestelling is afgerond via WhatsApp, configureert ons technische team uw verbinding binnen 10 to 30 minuten. We sturen u direct de inloggegevens en helpen u bij de installatie op uw apparaat.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Kan ik IPTV kijken op meerdere apparaten tegelijk?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Onze standaard abonnementen ondersteunen de configuratie op meerdere apparaten (bijvoorbeeld uw tv en uw smartphone), maar u kunt slechts op één scherm tegelijk kijken. Indien u gelijktijdig op meerdere schermen wilt streamen, bieden wij speciale multi-room pakketten aan op aanvraag via WhatsApp.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Welke internetsnelheid is vereist?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Voor live streams in SD of HD is een stabiele internetverbinding van minimaal 8 Mbps voldoende. Om storingsvrij te kunnen genieten van Full HD en 4K Ultra HD raden we een internetsnelheid van minimaal 15 tot 20 Mbps aan. Voor maximale stabiliteit raden we aan uw apparaat met een netwerkkabel (Ethernet) aan te sluiten op uw router.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Hoe werkt de Anti-Freeze technologie?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Onze Anti-Freeze v4 technologie maakt gebruik van een load-balancing systeem met servers verspreid over Europa. Zodra er overbelasting dreigt op een server, wordt uw stream direct en geruisloos overgezet naar een stand-by back-up server. Hierdoor merkt u niets op uw scherm en geniet u van storingsvrije live tv.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Wat heb ik nodig om IPTV te kijken?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Om IPTV te kijken heeft u drie dingen nodig: een stabiele internetverbinding, een afspeelapparaat (zoals een Smart TV, smartphone, tablet of Android TV Box) en een IPTV abonnement of M3U link van IPTV Premium. Nadat u uw pakket heeft aangeschaft, ontvangt u van ons gedetailleerde instructies en inloggegevens om binnen enkele minuten te kunnen kijken.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Heb ik een VPN nodig om IPTV te kijken?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">In principe heeft u geen VPN nodig om onze streams te bekijken, omdat al ons verkeer is beveiligd. Echter, sommige internetproviders kunnen tijdens piekmomenten of live sportwedstrijden bepaalde poorten of verbindingen vertragen (ISP throttling). Een VPN kan in dat geval helpen om deze beperkingen te omzeilen en de snelheid en privacy te garanderen. Onze service is 100% compatibel met alle bekende VPN-aanbieders.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Kan ik IPTV kijken in het buitenland?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Ja, onze IPTV-service werkt wereldwijd. Het enige wat u nodig heeft is een stabiele internetverbinding (bijvoorbeeld in uw vakantiehuis of op reis). Er zijn geen geografische beperkingen op onze playlists, zodat u overal kunt genieten van uw favoriete Nederlandse en internationale zenders.</div></div>
+          </div>
+
+          <div class="acc-item glass">
+            <button class="acc-q">
+              <h3>Wat moet ik doen als mijn IPTV verbinding hapert?</h3>
+              <div class="acc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></div>
+            </button>
+            <div class="acc-a"><div class="acc-a-inner">Als uw stream hapert, raden we aan om eerst uw router en uw afspeelapparaat opnieuw op te starten. Zorg er ook voor dat andere apparaten op uw netwerk niet te veel bandbreedte verbruiken. Sluit indien mogelijk uw apparaat met een netwerkkabel aan. Als het probleem aanhoudt, neem dan contact op met onze WhatsApp helpdesk voor een directe diagnose.</div></div>
+          </div>
+        </div>
+
+        <div class="legal-body" style="margin-top: 60px;">
+          <h2>Hulp nodig bij de configuratie of installatie?</h2>
+          <p>Onze IPTV veelgestelde vragen zijn ontworpen om de meest voorkomende vragen over installatie en gebruik direct te beantwoorden. Mocht u toch tegen problemen aanlopen met uw tv-gids (EPG), specifieke foutmeldingen in uw app krijgen of uw inloggegevens kwijt zijn, aarzel dan niet om contact op te nemen met onze klantenservice. Onze technische support helpt u graag verder en lost elk probleem snel op.</p>
+          
+          <div style="margin-top: 40px; text-align: center;">
+            <a href="https://wa.me/212688017429?text=Hallo%2C%20ik%20heb%20een%20technische%20vraag%20over%20mijn%20IPTV%20abonnement." class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener">Klantenservice via WhatsApp</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <div class="divider"></div>
+
+  <!-- ══ FOOTER ══ -->
+  <footer class="site-footer">
+    <div class="container footer-top">
+      <div class="footer-brand">
+        <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+        <p>Premium IPTV-aanbieder van hoogwaardige videostreams. Stabiel, vloeiend en veilig voor het hele gezin.</p>
+      </div>
+      <div class="footer-col">
+        <h5>Navigatie</h5>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="avantages.html">Voordelen</a></li>
+          <li><a href="tarifs.html">Tarieven</a></li>
+          <li><a href="chaines.html">Zenders</a></li>
+          <li><a href="installation.html">Installatie</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Apparaten</h5>
+        <ul>
+          <li><a href="smart-tv.html">Smart TV</a></li>
+          <li><a href="android-tv.html">Android TV</a></li>
+          <li><a href="firestick.html">Amazon Firestick</a></li>
+          <li><a href="ios.html">iPhone &amp; Apple TV</a></li>
+          <li><a href="mag-box.html">MAG Box</a></li>
+          <li><a href="pc-mac.html">PC &amp; Mac</a></li>
+          <li><a href="formuler-enigma.html">Formuler &amp; Enigma</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Support &amp; Juridisch</h5>
+        <ul>
+          <li><a href="contact.html">Contact WhatsApp</a></li>
+          <li><a href="plan-du-site.html">Sitemap</a></li>
+          <li><a href="conditions-generales.html">Algemene Voorwaarden</a></li>
+          <li><a href="politique-confidentialite.html">Privacybeleid</a></li>
+          <li><a href="politique-remboursement.html">Terugbetalingsbeleid</a></li>
+          <li><a href="politique-cookies.html">Cookiebeleid</a></li>
+          <li><a href="clause-non-responsabilite.html">Disclaimer</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <p>&copy; 2026 IPTV Premium. Alle rechten voorbehouden.</p>
+      <div class="legal-links">
+        <a href="conditions-generales.html">Voorwaarden</a>
+        <a href="politique-confidentialite.html">Veiligheid</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Floating WhatsApp Button -->
+  <a href="https://wa.me/212688017429?text=Hallo%2C%20ik%20wil%20graag%20meer%20informatie%20ontvangen%20over%20de%20IPTV%20Premium%20abonnementen." class="wa-float" aria-label="WhatsApp Contact" target="_blank" rel="noopener">
+    <div class="ring"></div>
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.4 0 11.973 0c3.184.001 6.177 1.242 8.426 3.496 2.248 2.254 3.487 5.252 3.486 8.44-.003 6.657-5.343 12-11.916 12-2.004-.001-3.973-.505-5.717-1.464L0 24zm6.59-4.846c1.6.95 3.197 1.451 4.785 1.453 5.457 0 9.896-4.378 9.899-9.761.001-2.606-1.012-5.056-2.855-6.902C16.576 2.086 14.135 1.058 11.971 1.058c-5.46 0-9.9 4.379-9.902 9.763-.001 1.704.453 3.371 1.313 4.86l-.995 3.637 3.73-.964z"/></svg>
+  </a>
+
+  <!-- Mobile Sticky CTA Banner -->
+  <div class="sticky-cta" id="sticky-cta">
+    <a href="tarifs.html" class="btn btn-ghost btn-sm">Bekijk tarieven</a>
+    <a href="https://wa.me/212688017429?text=Hallo%2C%20ik%20wil%20graag%20een%20gratis%20proefperiode%20van%2024%20uur%20ontvangen%20voor%20IPTV%20Premium." class="btn btn-primary btn-sm" target="_blank" rel="noopener">Proefperiode WhatsApp</a>
+  </div>
+
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const header = document.querySelector('.site-header');
+    const stickyCta = document.getElementById('sticky-cta');
+
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 50) {
+        stickyCta.classList.add('show');
+      } else {
+        stickyCta.classList.remove('show');
+      }
+    });
+
+    const navToggle = document.querySelector('.nav-toggle');
+    const mainNav   = document.querySelector('.main-nav');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = mainNav.classList.toggle('open');
+      navToggle.classList.toggle('open');
+      navToggle.setAttribute('aria-expanded', isOpen);
+    });
+
+    mainNav.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        mainNav.classList.remove('open');
+        navToggle.classList.remove('open');
+        navToggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+
+    document.querySelectorAll('.acc-item').forEach(item => {
+      const questionBtn = item.querySelector('.acc-q');
+      const answer      = item.querySelector('.acc-a');
+
+      questionBtn.addEventListener('click', () => {
+        const isOpen = item.classList.contains('open');
+        document.querySelectorAll('.acc-item').forEach(other => {
+          if (other !== item) {
+            other.classList.remove('open');
+            other.querySelector('.acc-a').style.maxHeight = null;
+          }
+        });
+        if (isOpen) {
+          item.classList.remove('open');
+          answer.style.maxHeight = null;
+        } else {
+          item.classList.add('open');
+          answer.style.maxHeight = answer.scrollHeight + "px";
+        }
+      });
+    });
+  });
+  </script>
+</body>
+</html>
+

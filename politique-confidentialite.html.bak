@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politique de Confidentialité — IPTV Premium</title>
+  <meta name="description" content="Politique de confidentialité IPTV Premium : collecte des données, utilisation, droits RGPD, cookies et durée de conservation. Vos données sont protégées.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://streamplanettv.online/politique-confidentialite.html">
+  <link rel="alternate" hreflang="nl-NL" href="https://streamplanettv.online/politique-confidentialite.html">
+  <link rel="alternate" hreflang="x-default" href="https://streamplanettv.online/">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Passer au contenu principal</a>
+  <header class="site-header scrolled">
+    <div class="container header-row">
+      <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+      <nav class="main-nav">
+        <a href="index.html">Accueil</a><a href="tarifs.html">Tarifs</a><a href="faq.html">FAQ</a><a href="contact.html">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <a href="tarifs.html" class="btn btn-primary btn-sm">S'abonner</a>
+        <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section class="page-header">
+      <div class="container">
+        <div class="crumb"><a href="index.html">Accueil</a> &gt; <span>Politique de Confidentialité</span></div>
+        <h1>Politique de Confidentialité</h1>
+        <p style="font-size: 0.82rem; color: var(--gray-400); margin-top: 6px;">Dernière mise à jour : 19 Juin 2026 — Conformité RGPD</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="legal-body">
+
+          <h2>1. Responsable du traitement des données</h2>
+          <p>Le responsable du traitement de vos données personnelles est la société IPTV Premium, joignable via le formulaire de <a href="contact.html">contact</a> ou par WhatsApp au <a href="https://wa.me/212688017429" target="_blank" rel="noopener">+212688017429</a>.</p>
+
+          <h2>2. Données collectées</h2>
+          <p>Dans le cadre de la fourniture de notre service, nous pouvons collecter les catégories de données suivantes :</p>
+          <ul>
+            <li><strong>Données d'identification :</strong> prénom, nom (facultatif), adresse e-mail si fournie.</li>
+            <li><strong>Données de messagerie :</strong> échanges via WhatsApp nécessaires à la gestion de votre commande.</li>
+            <li><strong>Données de connexion :</strong> adresse IP, type d'appareil, navigateur utilisé, pages visitées (logs d'accès).</li>
+            <li><strong>Données de navigation :</strong> cookies analytiques anonymisés (voir notre <a href="politique-cookies.html">politique cookies</a>).</li>
+          </ul>
+          <p>Nous ne collectons ni ne conservons de données bancaires. Toutes les transactions financières sont gérées en dehors de notre plateforme.</p>
+
+          <h2>3. Finalités et bases légales du traitement</h2>
+          <p>Vos données sont traitées pour les finalités suivantes :</p>
+          <ul>
+            <li><strong>Exécution du contrat :</strong> activation et gestion de votre abonnement, envoi de vos identifiants, support technique.</li>
+            <li><strong>Intérêt légitime :</strong> amélioration de la qualité du service, lutte contre la fraude et les abus.</li>
+            <li><strong>Consentement :</strong> envoi de communications marketing si vous avez explicitement accepté de les recevoir.</li>
+            <li><strong>Obligation légale :</strong> conservation de certains logs d'accès conformément aux obligations légales françaises.</li>
+          </ul>
+
+          <h2>4. Destinataires des données</h2>
+          <p>Vos données personnelles ne sont ni vendues ni cédées à des tiers à des fins commerciales. Elles peuvent être partagées uniquement avec :</p>
+          <ul>
+            <li>Nos prestataires techniques (hébergement, infrastructure réseau) dans le cadre strict de la fourniture du service.</li>
+            <li>Les autorités compétentes en cas d'obligation légale.</li>
+          </ul>
+
+          <h2>5. Durée de conservation</h2>
+          <p>Vos données sont conservées pour la durée nécessaire à l'exécution du contrat, augmentée des délais de prescription légaux applicables (généralement 5 ans pour les données contractuelles et 1 an pour les logs de connexion conformément à la loi française).</p>
+
+          <h2>6. Vos droits RGPD</h2>
+          <p>Conformément au Règlement Général sur la Protection des Données (RGPD — Règlement UE 2016/679), vous disposez des droits suivants :</p>
+          <ul>
+            <li><strong>Droit d'accès :</strong> obtenir une copie de vos données personnelles.</li>
+            <li><strong>Droit de rectification :</strong> corriger vos données inexactes ou incomplètes.</li>
+            <li><strong>Droit à l'effacement :</strong> demander la suppression de vos données (« droit à l'oubli »).</li>
+            <li><strong>Droit à la limitation du traitement :</strong> restreindre le traitement dans certains cas.</li>
+            <li><strong>Droit à la portabilité :</strong> recevoir vos données dans un format structuré.</li>
+            <li><strong>Droit d'opposition :</strong> vous opposer au traitement de vos données à des fins de marketing.</li>
+          </ul>
+          <p>Pour exercer ces droits, contactez-nous via notre page <a href="contact.html">Contact</a>. Vous disposez également du droit d'introduire une réclamation auprès de la <strong>CNIL</strong> (Commission Nationale de l'Informatique et des Libertés) : <a href="https://www.cnil.fr" target="_blank" rel="noopener noreferrer">www.cnil.fr</a>.</p>
+
+          <h2>7. Sécurité des données</h2>
+          <p>Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données contre tout accès non autorisé, altération, divulgation ou destruction. Nos serveurs utilisent des connexions chiffrées (HTTPS/TLS).</p>
+
+          <h2>8. Modifications de la présente politique</h2>
+          <p>IPTV Premium se réserve le droit de modifier la présente politique de confidentialité à tout moment. Toute modification substantielle sera communiquée via le site internet ou par messagerie directe. La date de dernière mise à jour est indiquée en haut de cette page.</p>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="divider"></div>
+  <footer class="site-footer">
+    <div class="container footer-bottom">
+      <p>&copy; 2026 IPTV Premium. Tous droits réservés.</p>
+      <div class="legal-links">
+        <a href="conditions-generales.html">Conditions</a>
+        <a href="politique-confidentialite.html">Sécurité</a>
+      </div>
+    </div>
+  </footer>
+  <a href="https://wa.me/212688017429?text=Bonjour%2C%20je%20souhaite%20des%20informations." class="wa-float" aria-label="WhatsApp" target="_blank" rel="noopener">
+    <div class="ring"></div>
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.4 0 11.973 0c3.184.001 6.177 1.242 8.426 3.496 2.248 2.254 3.487 5.252 3.486 8.44-.003 6.657-5.343 12-11.916 12-2.004-.001-3.973-.505-5.717-1.464L0 24zm6.59-4.846c1.6.95 3.197 1.451 4.785 1.453 5.457 0 9.896-4.378 9.899-9.761.001-2.606-1.012-5.056-2.855-6.902C16.576 2.086 14.135 1.058 11.971 1.058c-5.46 0-9.9 4.379-9.902 9.763-.001 1.704.453 3.371 1.313 4.86l-.995 3.637 3.73-.964z"/></svg>
+  </a>
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const navToggle = document.querySelector('.nav-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    navToggle.addEventListener('click', () => { const o = mainNav.classList.toggle('open'); navToggle.classList.toggle('open'); navToggle.setAttribute('aria-expanded', o); });
+    mainNav.querySelectorAll('a').forEach(l => l.addEventListener('click', () => { mainNav.classList.remove('open'); navToggle.classList.remove('open'); navToggle.setAttribute('aria-expanded','false'); }));
+  });
+  </script>
+</body>
+</html>
+

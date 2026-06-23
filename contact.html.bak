@@ -1,0 +1,290 @@
+﻿<!DOCTYPE html>
+<html lang="nl" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ══ SEO — Titel & Beschrijving (Yoast 2026) ══ -->
+  <title>Contact IPTV — Klantenservice &amp; Ondersteuning 24/7</title>
+  <meta name="description" content="Vragen? Neem contact op met onze ondersteuning. Vind ons IPTV-contactformulier, onze WhatsApp-assistentie en onze openingstijden.">
+  <meta name="keywords" content="contact IPTV, IPTV ondersteuning, IPTV klantenservice, IPTV installatie hulp, e-mail IPTV Premium">
+  <meta name="author" content="IPTV Premium">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://streamplanettv.online/contact.html">
+  <link rel="alternate" hreflang="nl-NL" href="https://streamplanettv.online/contact.html">
+  <link rel="alternate" hreflang="x-default" href="https://streamplanettv.online/">
+
+  <!-- ══ SEO — Open Graph ══ -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="nl_NL">
+  <meta property="og:title" content="Contact IPTV — Snelle Klantenservice">
+  <meta property="og:description" content="24/7 live assistentie via WhatsApp om uw abonnement te configureren. Neem contact met ons op via e-mail of het formulier.">
+  <meta property="og:image" content="https://streamplanettv.online/logo.svg">
+  <meta property="og:url" content="https://streamplanettv.online/contact.html">
+  <meta property="og:site_name" content="IPTV Premium">
+
+  <!-- ══ SEO — Twitter Card ══ -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Contact IPTV — Snelle Technische Ondersteuning">
+  <meta name="twitter:description" content="Onze technische ondersteuning beantwoordt uw configuratieverzoeken in minder dan 15 minuten.">
+  <meta name="twitter:image" content="https://streamplanettv.online/logo.svg">
+
+  <link rel="icon" type="image/png" href="./favicon.png">
+  <link rel="apple-touch-icon" href="./favicon.png">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- ══ SEO — Gestructureerde gegevens Schema.org (BreadcrumbList) ══ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://streamplanettv.online/contact.html#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://streamplanettv.online/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Contact",
+            "item": "https://streamplanettv.online/contact.html"
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <a href="#main-content" class="skip-link">Naar de hoofdinhoud springen</a>
+
+  <!-- ══ HEADER ══ -->
+  <header class="site-header scrolled">
+    <div class="container header-row">
+      <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="avantages.html">Voordelen</a>
+        <a href="tarifs.html">Tarieven</a>
+        <a href="chaines.html">Zenders</a>
+        <a href="installation.html">Installatie</a>
+        <a href="faq.html">FAQ</a>
+        <a href="avis.html">Beoordelingen</a>
+        <a href="blog.html">Blog</a>
+        <a href="a-propos.html">Over ons</a>
+        <a href="contact.html" class="active">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <a href="tarifs.html" class="btn btn-primary btn-sm">Abonneren</a>
+        <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    
+    <!-- ══ PAGE HEADER ══ -->
+    <section class="page-header">
+      <div class="container">
+        <div class="crumb"><a href="index.html">Home</a> &gt; <span>Contact</span></div>
+        <h1>Contact IPTV</h1>
+        <p>Neem contact op met ons technische team voor al uw commerciële, technische of installatievragen.</p>
+      </div>
+    </section>
+
+    <!-- ══ CONTACT SECTION ══ -->
+    <section class="section">
+      <div class="container">
+        <div class="contact-grid">
+          
+          <div class="wa-card glass">
+            <div class="wa-icon">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.4 0 11.973 0c3.184.001 6.177 1.242 8.426 3.496 2.248 2.254 3.487 5.252 3.486 8.44-.003 6.657-5.343 12-11.916 12-2.004-.001-3.973-.505-5.717-1.464L0 24zm6.59-4.846c1.6.95 3.197 1.451 4.785 1.453 5.457 0 9.896-4.378 9.899-9.761.001-2.606-1.012-5.056-2.855-6.902C16.576 2.086 14.135 1.058 11.971 1.058c-5.46 0-9.9 4.379-9.902 9.763-.001 1.704.453 3.371 1.313 4.86l-.995 3.637 3.73-.964z"/></svg>
+            </div>
+            <h3>Directe Assistentie via WhatsApp</h3>
+            <p>Onze belangrijkste technische ondersteuning is live beschikbaar via onze WhatsApp-lijn voor een snelle afhandeling van uw configuratieverzoeken.</p>
+            <p><strong>Onze openingstijden:</strong> Maandag tot zondag, 24/24.</p>
+            <a href="https://wa.me/212688017429?text=Hallo%2C%20ik%20heb%20een%20vraag%20over%20uw%20IPTV-pakketten." class="btn btn-whatsapp btn-block" target="_blank" rel="noopener">Chatten op WhatsApp</a>
+          </div>
+
+          <div class="form-card glass">
+            <h3>Stuur ons een e-mail</h3>
+            <form id="contact-page-form" novalidate>
+              <div class="field-row">
+                <div class="field">
+                  <label for="contact-name">Volledige Naam</label>
+                  <input type="text" id="contact-name" placeholder="Bijv: Jan Jansen" required>
+                </div>
+                <div class="field">
+                  <label for="contact-email">E-mailadres</label>
+                  <input type="email" id="contact-email" placeholder="jan@example.com" required>
+                </div>
+              </div>
+              <div class="field">
+                <label for="contact-subject">Onderwerp van uw bericht</label>
+                <select id="contact-subject">
+                  <option value="sales">Commerciële vraag &amp; Tarieven</option>
+                  <option value="tech">Technische ondersteuning &amp; Hulp</option>
+                  <option value="partnership">Partnerschap</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="contact-message">Gedetailleerd bericht</label>
+                <textarea id="contact-message" placeholder="Beschrijf uw probleem of uw vraag..." required></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary btn-block">Mijn bericht verzenden</button>
+              <p class="form-note">Reactietijd per e-mail: minder dan 2 uur.</p>
+            </form>
+
+            <div class="form-success" id="contact-page-success">
+              <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg></div>
+              <h4>Bericht succesvol verzonden!</h4>
+              <p>Uw bericht is doorgestuurd naar onze klantenservice. Een medewerker zal u zo snel mogelijk per e-mail beantwoorden.</p>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="legal-body" style="margin-top: 60px;">
+          <h2>Wat gebeurt er nadat u contact heeft opgenomen?</h2>
+          <p>Zodra wij uw aanvraag via het formulier of via chat ontvangen, analyseren onze technici uw behoeften. Als u een technisch probleem ervaart met uw **IPTV-verbinding**, vermeld dan het exacte model van uw apparatuur (Samsung of LG Smart TV, Xiaomi Mi Box, Apple TV, enz.) en de naam van de geïnstalleerde video-afspeelapplicatie (IPTV Smarters Pro, Smart IPTV, IBO Player, TiviMate, enz.). Dit stelt onze technici in staat om snel een diagnose te stellen en u direct de ideale configuratieoplossing te bieden.</p>
+          <p>Wij streven naar een uitstekende service na verkoop, omdat wij geloven dat een televisieabonnement pas echt goed is als de ondersteuning die erbij hoort dat ook is.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <div class="divider"></div>
+
+  <!-- ══ FOOTER ══ -->
+  <footer class="site-footer">
+    <div class="container footer-top">
+      <div class="footer-brand">
+        <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+        <p>Premium IPTV-aanbieder van videostreams van hoge kwaliteit. Stabiel, vloeiend en veilig voor het hele gezin.</p>
+      </div>
+      <div class="footer-col">
+        <h5>Navigatie</h5>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="avantages.html">Voordelen</a></li>
+          <li><a href="tarifs.html">Tarieven</a></li>
+          <li><a href="chaines.html">Zenders</a></li>
+          <li><a href="installation.html">Installatie</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Apparaten</h5>
+        <ul>
+          <li><a href="smart-tv.html">Smart TV</a></li>
+          <li><a href="android-tv.html">Android TV</a></li>
+          <li><a href="firestick.html">Amazon Firestick</a></li>
+          <li><a href="ios.html">iPhone &amp; Apple TV</a></li>
+          <li><a href="mag-box.html">MAG Box</a></li>
+          <li><a href="pc-mac.html">PC &amp; Mac</a></li>
+          <li><a href="formuler-enigma.html">Formuler &amp; Enigma</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Ondersteuning &amp; Juridisch</h5>
+        <ul>
+          <li><a href="contact.html">WhatsApp Contact</a></li>
+          <li><a href="plan-du-site.html">Sitemap</a></li>
+          <li><a href="conditions-generales.html">Gebruiksvoorwaarden</a></li>
+          <li><a href="politique-confidentialite.html">Privacybeleid</a></li>
+          <li><a href="politique-remboursement.html">Terugbetalingsbeleid</a></li>
+          <li><a href="politique-cookies.html">Cookies</a></li>
+          <li><a href="clause-non-responsabilite.html">Disclaimer</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <p>&copy; 2026 IPTV Premium. Alle rechten voorbehouden.</p>
+      <div class="legal-links">
+        <a href="conditions-generales.html">Voorwaarden</a>
+        <a href="politique-confidentialite.html">Veiligheid</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Floating WhatsApp Button -->
+  <a href="https://wa.me/212688017429?text=Hallo%2C%20ik%20wil%20graag%20informatie%20over%20uw%20IPTV%20Premium%20abonnementen." class="wa-float" aria-label="WhatsApp Contact" target="_blank" rel="noopener">
+    <div class="ring"></div>
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.4 0 11.973 0c3.184.001 6.177 1.242 8.426 3.496 2.248 2.254 3.487 5.252 3.486 8.44-.003 6.657-5.343 12-11.916 12-2.004-.001-3.973-.505-5.717-1.464L0 24zm6.59-4.846c1.6.95 3.197 1.451 4.785 1.453 5.457 0 9.896-4.378 9.899-9.761.001-2.606-1.012-5.056-2.855-6.902C16.576 2.086 14.135 1.058 11.971 1.058c-5.46 0-9.9 4.379-9.902 9.763-.001 1.704.453 3.371 1.313 4.86l-.995 3.637 3.73-.964z"/></svg>
+  </a>
+
+  <!-- Mobile Sticky CTA Banner -->
+  <div class="sticky-cta" id="sticky-cta">
+    <a href="tarifs.html" class="btn btn-ghost btn-sm">Bekijk aanbiedingen</a>
+    <a href="https://wa.me/212688017429?text=Hallo%2C%20ik%20wil%20graag%20een%20gratis%20proefperiode%20van%2024%20uur%20voor%20IPTV%20Premium%20ontvangen." class="btn btn-primary btn-sm" target="_blank" rel="noopener">WhatsApp Test</a>
+  </div>
+
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const header = document.querySelector('.site-header');
+    const stickyCta = document.getElementById('sticky-cta');
+
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 50) {
+        stickyCta.classList.add('show');
+      } else {
+        stickyCta.classList.remove('show');
+      }
+    });
+
+    const navToggle = document.querySelector('.nav-toggle');
+    const mainNav   = document.querySelector('.main-nav');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = mainNav.classList.toggle('open');
+      navToggle.classList.toggle('open');
+      navToggle.setAttribute('aria-expanded', isOpen);
+    });
+
+    mainNav.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        mainNav.classList.remove('open');
+        navToggle.classList.remove('open');
+        navToggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+
+    const contactForm = document.getElementById('contact-page-form');
+    const contactSuccess = document.getElementById('contact-page-success');
+    if (contactForm) {
+      contactForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        if (contactForm.checkValidity()) {
+          const name = document.getElementById('contact-name').value;
+          const email = document.getElementById('contact-email').value;
+          const subject = document.getElementById('contact-subject').value;
+          const message = document.getElementById('contact-message').value;
+
+          // Redirect to WhatsApp with contact details
+          const waMessage = `Hallo, mijn naam is ${name} (${email}). Onderwerp: ${subject}. Bericht: ${message}`;
+          const encoded = encodeURIComponent(waMessage);
+          window.open(`https://wa.me/212688017429?text=${encoded}`, '_blank');
+
+          contactForm.style.display = 'none';
+          contactSuccess.classList.add('show');
+        }
+      });
+    }
+  });
+  </script>
+</body>
+</html>
+

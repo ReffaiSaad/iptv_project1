@@ -3,7 +3,7 @@
 import os
 from datetime import date
 root = os.path.dirname(__file__)
-base = 'https://streamplanettv.online'
+base = ''
 urls = []
 for dirpath, dirnames, filenames in os.walk(root):
     # skip hidden directories

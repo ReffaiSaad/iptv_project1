@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politique de Remboursement — IPTV Premium</title>
+  <meta name="description" content="Découvrez la politique de remboursement d'IPTV Premium : conditions, délais et procédure pour demander un remboursement de votre abonnement.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://streamplanettv.online/politique-remboursement.html">
+  <link rel="alternate" hreflang="nl-NL" href="https://streamplanettv.online/politique-remboursement.html">
+  <link rel="alternate" hreflang="x-default" href="https://streamplanettv.online/">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Passer au contenu principal</a>
+  <header class="site-header scrolled">
+    <div class="container header-row">
+      <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+      <nav class="main-nav">
+        <a href="index.html">Accueil</a><a href="tarifs.html">Tarifs</a><a href="faq.html">FAQ</a><a href="contact.html">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <a href="tarifs.html" class="btn btn-primary btn-sm">S'abonner</a>
+        <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section class="page-header">
+      <div class="container">
+        <div class="crumb"><a href="index.html">Accueil</a> &gt; <span>Politique de Remboursement</span></div>
+        <h1>Politique de Remboursement</h1>
+        <p style="font-size: 0.82rem; color: var(--gray-400); margin-top: 6px;">Dernière mise à jour : 19 Juin 2026</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="legal-body">
+
+          <h2>Notre engagement de satisfaction</h2>
+          <p>Chez IPTV Premium, la satisfaction de nos abonnés est notre priorité absolue. Avant tout achat, nous vous encourageons à <a href="essai-gratuit.html">tester notre service gratuitement pendant 24 heures</a> afin de vous assurer qu'il répond pleinement à vos attentes. Cet essai gratuit vous permet de vérifier la compatibilité avec vos appareils et la qualité des flux sur votre connexion internet.</p>
+
+          <h2>Conditions de remboursement</h2>
+          <p>En raison de la nature numérique et immédiatement consommable du service IPTV, les conditions de remboursement sont les suivantes :</p>
+
+          <h3>Remboursement dans les 48 heures suivant l'activation</h3>
+          <p>Si vous rencontrez des problèmes techniques majeurs que notre équipe de support n'est pas en mesure de résoudre dans un délai raisonnable, et que votre demande est formulée dans les <strong>48 heures</strong> suivant l'activation de votre compte, nous procéderons à un remboursement intégral de votre abonnement.</p>
+
+          <h3>Remboursement au-delà de 48 heures</h3>
+          <p>Au-delà de 48 heures après l'activation, et compte tenu du caractère immédiatement consommé du service numérique, aucun remboursement ne sera accordé pour les abonnements en cours. Cette politique est conforme à l'article L221-28 du Code de la consommation français relatif aux exceptions au droit de rétractation pour les contenus numériques.</p>
+
+          <h3>Cas exceptionnels</h3>
+          <p>Des remboursements partiels ou des extensions d'abonnement (à titre commercial) peuvent être accordés à la discrétion d'IPTV Premium dans les situations suivantes :</p>
+          <ul>
+            <li>Interruption prolongée du service imputable à IPTV Premium dépassant 72 heures consécutives.</li>
+            <li>Erreur de facturation manifeste de notre part.</li>
+            <li>Double paiement accidentel.</li>
+          </ul>
+
+          <h2>Procédure de demande de remboursement</h2>
+          <p>Pour initier une demande de remboursement, contactez notre service client :</p>
+          <ol>
+            <li>Envoyez un message via notre <a href="contact.html">page Contact</a> ou directement sur WhatsApp.</li>
+            <li>Indiquez votre nom d'utilisateur, la date d'activation et la nature du problème rencontré.</li>
+            <li>Notre équipe examinera votre demande dans un délai de <strong>24 à 48 heures ouvrables</strong>.</li>
+            <li>En cas d'acceptation, le remboursement sera traité selon le mode de paiement initial.</li>
+          </ol>
+
+          <h2>Remboursements non éligibles</h2>
+          <p>Ne sont pas éligibles au remboursement :</p>
+          <ul>
+            <li>Les interruptions de service dues à votre connexion internet ou à votre équipement.</li>
+            <li>Les demandes formulées après 48 heures d'utilisation sans problème signalé.</li>
+            <li>Les comptes suspendus pour violation des <a href="conditions-generales.html">Conditions Générales d'Utilisation</a> (partage illicite d'identifiants, revente, etc.).</li>
+            <li>Les abonnements consommés à plus de 50% de leur durée totale.</li>
+          </ul>
+
+          <h2>Contact</h2>
+          <p>Pour toute question relative à notre politique de remboursement, n'hésitez pas à contacter notre service client disponible 24h/24, 7j/7 via <a href="contact.html">WhatsApp</a>.</p>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="divider"></div>
+  <footer class="site-footer">
+    <div class="container footer-bottom">
+      <p>&copy; 2026 IPTV Premium. Tous droits réservés.</p>
+      <div class="legal-links">
+        <a href="conditions-generales.html">Conditions</a>
+        <a href="politique-confidentialite.html">Sécurité</a>
+      </div>
+    </div>
+  </footer>
+  <a href="https://wa.me/212688017429?text=Bonjour%2C%20je%20souhaite%20des%20informations." class="wa-float" aria-label="WhatsApp" target="_blank" rel="noopener">
+    <div class="ring"></div>
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.4 0 11.973 0c3.184.001 6.177 1.242 8.426 3.496 2.248 2.254 3.487 5.252 3.486 8.44-.003 6.657-5.343 12-11.916 12-2.004-.001-3.973-.505-5.717-1.464L0 24zm6.59-4.846c1.6.95 3.197 1.451 4.785 1.453 5.457 0 9.896-4.378 9.899-9.761.001-2.606-1.012-5.056-2.855-6.902C16.576 2.086 14.135 1.058 11.971 1.058c-5.46 0-9.9 4.379-9.902 9.763-.001 1.704.453 3.371 1.313 4.86l-.995 3.637 3.73-.964z"/></svg>
+  </a>
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const navToggle = document.querySelector('.nav-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    navToggle.addEventListener('click', () => { const o = mainNav.classList.toggle('open'); navToggle.classList.toggle('open'); navToggle.setAttribute('aria-expanded', o); });
+    mainNav.querySelectorAll('a').forEach(l => l.addEventListener('click', () => { mainNav.classList.remove('open'); navToggle.classList.remove('open'); navToggle.setAttribute('aria-expanded','false'); }));
+  });
+  </script>
+</body>
+</html>
+

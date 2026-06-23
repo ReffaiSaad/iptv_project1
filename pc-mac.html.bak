@@ -1,0 +1,250 @@
+﻿<!DOCTYPE html>
+<html lang="nl" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ══ SEO — Titel & Beschrijving (Yoast 2026) ══ -->
+  <title>IPTV PC Mac — Configureren op Windows en macOS</title>
+  <meta name="description" content="Ontdek onze IPTV PC Mac handleiding. Leer hoe u uw M3U-playlists afspeelt met VLC of de IPTV Smarters Pro-app installeert op uw Windows- of Mac-computer. Wat is de beste IPTV voor PC?">
+  <meta name="keywords" content="IPTV PC Mac, IPTV Windows, IPTV macOS, IPTV installeren VLC, IPTV Smarters PC, M3U afspelen computer, wat is de beste iptv, wat is de beste iptv app, de beste iptv, what is iptv">
+  <meta name="author" content="IPTV Premium">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://streamplanettv.online/pc-mac.html">
+  <link rel="alternate" hreflang="nl-NL" href="https://streamplanettv.online/pc-mac.html">
+  <link rel="alternate" hreflang="x-default" href="https://streamplanettv.online/">
+
+  <!-- ══ SEO — Open Graph ══ -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="nl_NL">
+  <meta property="og:title" content="IPTV PC Mac — Televisie kijken op uw computer">
+  <meta property="og:description" content="Geniet van ons 4K-zendercatalogus rechtstreeks op uw desktop- of laptopscherm. Complete handleiding.">
+  <meta property="og:image" content="https://streamplanettv.online/logo.svg">
+  <meta property="og:url" content="https://streamplanettv.online/pc-mac.html">
+  <meta property="og:site_name" content="IPTV Premium">
+
+  <!-- ══ SEO — Twitter Card ══ -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="IPTV PC Mac — Handleiding VLC &amp; Smarters Pro">
+  <meta name="twitter:description" content="Start uw favoriete zenders en VOD in minder dan 3 minuten op Windows en Mac.">
+  <meta name="twitter:image" content="https://streamplanettv.online/logo.svg">
+
+  <link rel="icon" type="image/png" href="./favicon.png">
+  <link rel="apple-touch-icon" href="./favicon.png">
+  <link rel="manifest" href="./manifest.json">
+  <link rel="stylesheet" href="./style.css">
+
+  <!-- ══ SEO — Gestructureerde gegevens Schema.org (BreadcrumbList) ══ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://streamplanettv.online/pc-mac.html#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://streamplanettv.online/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "PC & Mac",
+            "item": "https://streamplanettv.online/pc-mac.html"
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <a href="#main-content" class="skip-link">Naar hoofdinhoud gaan</a>
+
+  <!-- ══ HEADER ══ -->
+  <header class="site-header scrolled">
+    <div class="container header-row">
+      <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="avantages.html">Voordelen</a>
+        <a href="tarifs.html">Tarieven</a>
+        <a href="chaines.html">Zenders</a>
+        <a href="installation.html">Installatie</a>
+        <a href="faq.html">FAQ</a>
+        <a href="avis.html">Beoordelingen</a>
+        <a href="blog.html">Blog</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <a href="tarifs.html" class="btn btn-primary btn-sm">Abonneren</a>
+        <button class="nav-toggle" id="nav-toggle" aria-label="Menu openen" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    
+    <!-- ══ PAGE HEADER ══ -->
+    <section class="page-header">
+      <div class="container">
+        <div class="crumb"><a href="index.html">Home</a> &gt; <span>PC &amp; Mac</span></div>
+        <h1>IPTV PC Mac</h1>
+        <p>Bekijk uw live tv-zenders en 4K VOD rechtstreeks op uw Windows- of macOS-computer.</p>
+      </div>
+    </section>
+
+    <!-- ══ INSTALLATION GUIDE ══ -->
+    <section class="section">
+      <div class="container">
+        <div class="legal-body">
+          <h2>Waarom een computer gebruiken om uw IPTV af te spelen?</h2>
+          <p>Het gebruik van een desktop- of laptopcomputer (Windows, macOS of Linux) is een zeer praktische oplossing om uw favoriete programma's te bekijken. Het is het ideale apparaat als u op zakenreis bent, op vakantie, of als u gewoon wilt genieten van een tweede scherm in uw kantoor. De rekenkracht van moderne computerprocessors en het beschikbare werkgeheugen maken het mogelijk om enorme videocatalogi vloeiend te laden.</p>
+          <p>Bovendien heeft u toegang tot een breed scala aan gratis en gerenommeerde software. Om uw **IPTV PC Mac**-formule te configureren, staan er twee belangrijke oplossingen tot uw beschikking: het gebruik van een lichtgewicht universele speler zoals VLC Media Player, of de installatie van een speciale app zoals IPTV Smarters Pro.</p>
+
+          <h2>Methode 1: Configuratie met VLC Media Player (de lichtste optie)</h2>
+          <p>De beroemde vrije en open-source mediaspeler **VLC Media Player** is compatibel met alle platformen. Het is de perfecte tool om snel een playlist in M3U-formaat te openen:</p>
+          <p><strong>Stap 1: De speler downloaden</strong><br>
+          Als u de software nog niet bezit, ga dan naar de officiële website van <a href="https://www.videolan.org" target="_blank" rel="noopener">VideoLAN</a> en download de versie die overeenkomt met uw systeem (Windows of macOS). Voltooi de standaard installatie.</p>
+          
+          <p><strong>Stap 2: De netwerkplaylist openen</strong><br>
+          Start VLC. Klik in de bovenste menubalk op **Media** (onder Windows) of **Archief** (onder Mac) en selecteer **Netwerkstream openen** (Sneltoets <code>Ctrl+N</code> of <code>Cmd+U</code>).</p>
+          
+          <p><strong>Stap 3: De M3U-URL invoeren</strong><br>
+          Plak in het veld voor het netwerkadres de volledige M3U-link van uw abonnement die door onze technische ondersteuning via WhatsApp is verstrekt. Klik op de knop **Afspelen**.</p>
+          
+          <p><strong>Stap 4: Navigeren door de lijst</strong><br>
+          VLC laadt de volledige netwerkcatalogus. Om door de zenders te navigeren, klikt u op **Beeld** en vervolgens **Afspeellijst** (Sneltoets <code>Ctrl+L</code>). U ziet de classificatie van al uw live zenders verschijnen. Dubbelklik gewoon op een zender om de uitzending te starten.</p>
+
+          <h2>Methode 2: Configuratie met IPTV Smarters Pro (interactieve interface)</h2>
+          <p>Als u een klassieke televisie-interface wilt met filmposters, categorieindeling en programmagids (EPG), dan is **IPTV Smarters Pro** de ideale applicatie:</p>
+          <p><strong>Stap 1: De software downloaden</strong><br>
+          Download de versie van IPTV Smarters Pro voor Windows (`.exe`-bestand) of macOS (`.dmg`-bestand) via de officiële link die door onze technische ondersteuning is verstrekt. Installeer en start de applicatie.</p>
+          
+          <p><strong>Stap 2: Verbinden via Xtream Codes API</strong><br>
+          Selecteer de optie voor verbinding via API-inloggegevens (Xtream Codes). Voer de codes in die via WhatsApp zijn doorgegeven:</p>
+          <ul>
+            <li><strong>Name:</strong> IPTV Premium</li>
+            <li><strong>Username:</strong> Uw inlognaam</li>
+            <li><strong>Password:</strong> Uw beveiligd wachtwoord</li>
+            <li><strong>Server URL:</strong> Het IP-adres van onze server (bijv: <code>http://serveur-premium.xyz:8080</code>)</li>
+          </ul>
+          <p>Klik op "Add User". De applicatie structureert automatisch de zenderlijst en de 4K VOD-catalogus in interactieve en esthetische categorieën.</p>
+
+          <div style="margin-top: 40px; text-align: center;">
+            <a href="https://wa.me/212688017429?text=Hallo%2C%20ik%20wil%20graag%20meer%20informatie%20ontvangen%20over%20de%20IPTV%20Premium%20abonnementen." class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener">PC &amp; Mac Hulp via WhatsApp</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <div class="divider"></div>
+
+  <!-- ══ FOOTER ══ -->
+  <footer class="site-footer">
+    <div class="container footer-top">
+      <div class="footer-brand">
+        <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+        <p>Premium IPTV-aanbieder van hoogwaardige videostreams. Stabiel, vloeiend en veilig voor het hele gezin.</p>
+      </div>
+      <div class="footer-col">
+        <h5>Navigatie</h5>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="avantages.html">Voordelen</a></li>
+          <li><a href="tarifs.html">Tarieven</a></li>
+          <li><a href="chaines.html">Zenders</a></li>
+          <li><a href="installation.html">Installatie</a></li>
+          <li><a href="faq.html">FAQ</a></li>
+          <li><a href="blog.html">Blog</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Apparaten</h5>
+        <ul>
+          <li><a href="smart-tv.html">Smart TV</a></li>
+          <li><a href="android-tv.html">Android TV</a></li>
+          <li><a href="firestick.html">Amazon Firestick</a></li>
+          <li><a href="ios.html">iPhone &amp; Apple TV</a></li>
+          <li><a href="mag-box.html">MAG Box</a></li>
+          <li><a href="pc-mac.html">PC &amp; Mac</a></li>
+          <li><a href="formuler-enigma.html">Formuler &amp; Enigma</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Support &amp; Juridisch</h5>
+        <ul>
+          <li><a href="contact.html">Contact WhatsApp</a></li>
+          <li><a href="plan-du-site.html">Sitemap</a></li>
+          <li><a href="conditions-generales.html">Algemene Voorwaarden</a></li>
+          <li><a href="politique-confidentialite.html">Privacybeleid</a></li>
+          <li><a href="politique-remboursement.html">Terugbetalingsbeleid</a></li>
+          <li><a href="politique-cookies.html">Cookiebeleid</a></li>
+          <li><a href="clause-non-responsabilite.html">Disclaimer</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <p>&copy; 2026 IPTV Premium. Alle rechten voorbehouden.</p>
+      <div class="legal-links">
+        <a href="conditions-generales.html">Voorwaarden</a>
+        <a href="politique-confidentialite.html">Veiligheid</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Floating WhatsApp Button -->
+  <a href="https://wa.me/212688017429?text=Hallo%2C%20ik%20wil%20graag%20meer%20informatie%20ontvangen%20over%20de%20IPTV%20Premium%20abonnementen." class="wa-float" aria-label="WhatsApp Contact" target="_blank" rel="noopener">
+    <div class="ring"></div>
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.4 0 11.973 0c3.184.001 6.177 1.242 8.426 3.496 2.248 2.254 3.487 5.252 3.486 8.44-.003 6.657-5.343 12-11.916 12-2.004-.001-3.973-.505-5.717-1.464L0 24zm6.59-4.846c1.6.95 3.197 1.451 4.785 1.453 5.457 0 9.896-4.378 9.899-9.761.001-2.606-1.012-5.056-2.855-6.902C16.576 2.086 14.135 1.058 11.971 1.058c-5.46 0-9.9 4.379-9.902 9.763-.001 1.704.453 3.371 1.313 4.86l-.995 3.637 3.73-.964z"/></svg>
+  </a>
+
+  <!-- Mobile Sticky CTA Banner -->
+  <div class="sticky-cta" id="sticky-cta">
+    <a href="tarifs.html" class="btn btn-ghost btn-sm">Bekijk tarieven</a>
+    <a href="https://wa.me/212688017429?text=Hallo%2C%20ik%20wil%20graag%20een%20gratis%20proefperiode%20van%2024%20uur%20ontvangen%20voor%20IPTV%20Premium." class="btn btn-primary btn-sm" target="_blank" rel="noopener">Proefperiode WhatsApp</a>
+  </div>
+
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const header = document.querySelector('.site-header');
+    const stickyCta = document.getElementById('sticky-cta');
+
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 50) {
+        stickyCta.classList.add('show');
+      } else {
+        stickyCta.classList.remove('show');
+      }
+    });
+
+    const navToggle = document.querySelector('.nav-toggle');
+    const mainNav   = document.querySelector('.main-nav');
+
+    navToggle.addEventListener('click', () => {
+      const isOpen = mainNav.classList.toggle('open');
+      navToggle.classList.toggle('open');
+      navToggle.setAttribute('aria-expanded', isOpen);
+    });
+
+    mainNav.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        mainNav.classList.remove('open');
+        navToggle.classList.remove('open');
+        navToggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+  });
+  </script>
+</body>
+</html>
+

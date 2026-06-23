@@ -1,0 +1,273 @@
+﻿<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ══ SEO ══ -->
+  <title>Comment Installer IPTV sur Smart TV Samsung &amp; LG en 2026</title>
+  <meta name="description" content="Guide pas à pas pour installer IPTV sur votre Smart TV Samsung ou LG en 2026. Téléchargez l'application, configurez votre abonnement et regardez vos chaînes en 4K.">
+  <meta name="keywords" content="installer IPTV Smart TV, IPTV Samsung Smart TV, IPTV LG Smart TV, IPTV Tizen, application IPTV Smart TV France">
+  <meta name="author" content="IPTV Premium">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://streamplanettv.online/blog/installer-iptv-smart-tv.html">
+  <link rel="alternate" hreflang="nl-NL" href="https://streamplanettv.online/blog/installer-iptv-smart-tv.html">
+  <link rel="alternate" hreflang="x-default" href="https://streamplanettv.online/">
+
+  <!-- ══ Open Graph ══ -->
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="Installer IPTV sur Smart TV Samsung &amp; LG — Guide 2026">
+  <meta property="og:description" content="Tutoriel complet pour installer et configurer IPTV Premium sur votre Smart TV en quelques minutes.">
+  <meta property="og:image" content="https://streamplanettv.online/logo.svg">
+  <meta property="og:url" content="https://streamplanettv.online/blog/installer-iptv-smart-tv.html">
+  <meta property="og:site_name" content="IPTV Premium">
+
+  <!-- ══ Twitter Card ══ -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Installer IPTV sur Smart TV — Tutoriel 2026">
+  <meta name="twitter:description" content="Guide étape par étape pour configurer IPTV Premium sur votre Samsung ou LG Smart TV.">
+  <meta name="twitter:image" content="https://streamplanettv.online/logo.svg">
+
+  <link rel="icon" type="image/png" href="../favicon.png">
+  <link rel="apple-touch-icon" href="../favicon.png">
+  <link rel="manifest" href="../manifest.json">
+  <link rel="stylesheet" href="../style.css">
+
+  <!-- ══ Schema.org ══ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "HowTo",
+        "@id": "https://streamplanettv.online/blog/installer-iptv-smart-tv.html#howto",
+        "name": "Comment installer IPTV sur Smart TV Samsung ou LG",
+        "description": "Guide complet pour installer et configurer IPTV Premium sur votre Smart TV en 2026.",
+        "totalTime": "PT10M",
+        "step": [
+          {"@type": "HowToStep","position": 1,"name": "Télécharger l'application","text": "Ouvrez le Samsung Smart Hub ou le LG Content Store et recherchez 'IPTV Smarters' ou 'Smart IPTV'."},
+          {"@type": "HowToStep","position": 2,"name": "Installer l'application","text": "Sélectionnez l'application et cliquez sur Installer. Attendez la fin du téléchargement."},
+          {"@type": "HowToStep","position": 3,"name": "Entrer vos identifiants","text": "Ouvrez l'application et saisissez l'URL, le nom d'utilisateur et le mot de passe fournis par IPTV Premium."},
+          {"@type": "HowToStep","position": 4,"name": "Profiter des chaînes","text": "Naviguez dans le menu de l'application pour accéder à vos chaînes en direct et à la VOD."}
+        ]
+      },
+      {
+        "@type": "BlogPosting",
+        "@id": "https://streamplanettv.online/blog/installer-iptv-smart-tv.html#post",
+        "headline": "Comment Installer IPTV sur Smart TV Samsung & LG en 2026",
+        "datePublished": "2026-04-08T11:00:00+01:00",
+        "dateModified": "2026-06-19T20:00:00+01:00",
+        "author": {"@type": "Person","name": "Thomas Girard"},
+        "publisher": {
+          "@type": "Organization","name": "IPTV Premium",
+          "logo": {"@type": "ImageObject","url": "https://streamplanettv.online/logo.svg"}
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://streamplanettv.online/blog/installer-iptv-smart-tv.html#breadcrumb",
+        "itemListElement": [
+          {"@type": "ListItem","position": 1,"name": "Accueil","item": "https://streamplanettv.online/"},
+          {"@type": "ListItem","position": 2,"name": "Blog","item": "https://streamplanettv.online/blog.html"},
+          {"@type": "ListItem","position": 3,"name": "Installer IPTV Smart TV","item": "https://streamplanettv.online/blog/installer-iptv-smart-tv.html"}
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <a href="#main-content" class="skip-link">Passer au contenu principal</a>
+
+  <!-- ══ HEADER ══ -->
+  <header class="site-header scrolled">
+    <div class="container header-row">
+      <a href="../index.html" class="logo">IPTV<span>Premium</span></a>
+      <nav class="main-nav">
+        <a href="../index.html">Accueil</a>
+        <a href="../avantages.html">Avantages</a>
+        <a href="../tarifs.html">Tarifs</a>
+        <a href="../chaines.html">Chaînes</a>
+        <a href="../installation.html">Installation</a>
+        <a href="../faq.html">FAQ</a>
+        <a href="../avis.html">Avis</a>
+        <a href="../blog.html" class="active">Blog</a>
+        <a href="../contact.html">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <a href="../tarifs.html" class="btn btn-primary btn-sm">S'abonner</a>
+        <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+
+    <!-- ══ PAGE HEADER ══ -->
+    <section class="page-header">
+      <div class="container">
+        <div class="crumb"><a href="../index.html">Accueil</a> &gt; <a href="../blog.html">Blog</a> &gt; <span>Installer IPTV Smart TV</span></div>
+        <h1>Comment Installer IPTV sur Smart TV Samsung &amp; LG</h1>
+        <p style="font-size: 0.82rem; color: var(--gray-400); margin-top: 6px;">Publié le 8 Avril 2026 — Mis à jour le 19 Juin 2026 · ⏱ 10 min de lecture</p>
+      </div>
+    </section>
+
+    <!-- ══ ARTICLE BODY ══ -->
+    <section class="section">
+      <div class="container">
+        <div class="legal-body">
+
+          <h2>Prérequis avant de commencer l'installation</h2>
+          <p>Avant de suivre ce guide, assurez-vous de disposer des éléments suivants :</p>
+          <ul>
+            <li>Une <strong>Smart TV Samsung</strong> (système Tizen, modèles 2016 et ultérieurs) ou <strong>LG</strong> (système WebOS).</li>
+            <li>Une connexion internet filaire (câble Ethernet recommandé) ou Wi-Fi stable avec un débit minimum de 25 Mbps pour la 4K.</li>
+            <li>Vos identifiants de connexion IPTV Premium (URL serveur, nom d'utilisateur, mot de passe) reçus après votre commande.</li>
+          </ul>
+          <p>Si vous n'avez pas encore d'abonnement, vous pouvez demander un <a href="../essai-gratuit.html">essai gratuit de 24 heures</a> pour tester la qualité avant de vous engager.</p>
+
+          <h2>Étape 1 : Installer l'application IPTV sur Samsung Smart TV (Tizen)</h2>
+          <p>Les Smart TV Samsung fonctionnent sous le système d'exploitation Tizen. Voici la procédure recommandée :</p>
+          <ol>
+            <li>Appuyez sur le bouton <strong>Smart Hub</strong> (maison) de votre télécommande Samsung.</li>
+            <li>Naviguez jusqu'à l'onglet <strong>Apps</strong> (Applications).</li>
+            <li>Cliquez sur l'icône loupe en haut à droite pour accéder à la recherche.</li>
+            <li>Tapez <strong>« IPTV Smarters Pro »</strong> ou <strong>« Smart IPTV »</strong> et appuyez sur Entrée.</li>
+            <li>Sélectionnez l'application dans les résultats et cliquez sur <strong>Installer</strong>.</li>
+            <li>Attendez la fin de l'installation, puis lancez l'application depuis votre bibliothèque d'applications.</li>
+          </ol>
+
+          <h2>Étape 2 : Installer l'application IPTV sur LG Smart TV (WebOS)</h2>
+          <p>Pour les téléviseurs LG sous WebOS 3.0 et supérieur :</p>
+          <ol>
+            <li>Appuyez sur le bouton <strong>Home</strong> de votre télécommande LG Magic Remote.</li>
+            <li>Accédez au <strong>LG Content Store</strong>.</li>
+            <li>Recherchez <strong>« IPTV Smarters »</strong> ou <strong>« SS IPTV »</strong>.</li>
+            <li>Cliquez sur l'application et sélectionnez <strong>Installer</strong>.</li>
+            <li>Une fois l'installation terminée, ouvrez l'application depuis l'écran d'accueil LG.</li>
+          </ol>
+
+          <h2>Étape 3 : Configurer vos identifiants IPTV Premium</h2>
+          <p>Une fois l'application ouverte, vous aurez le choix entre plusieurs méthodes de connexion. Nous recommandons la méthode <strong>« Connexion via Xtream Codes »</strong> pour sa simplicité :</p>
+          <ol>
+            <li>Dans l'application, choisissez « <strong>Ajouter un utilisateur</strong> » ou « <strong>Connexion Xtream Codes API</strong> ».</li>
+            <li>Entrez votre <strong>Nom d'affichage</strong> (ex. : IPTV Premium).</li>
+            <li>Saisissez l'<strong>URL du serveur</strong> fournie par notre équipe.</li>
+            <li>Entrez votre <strong>Nom d'utilisateur</strong> et votre <strong>Mot de passe</strong>.</li>
+            <li>Cliquez sur <strong>Ajouter l'utilisateur</strong>. L'application va charger votre liste de chaînes automatiquement.</li>
+          </ol>
+
+          <h2>Étape 4 : Naviguer dans votre contenu</h2>
+          <p>Une fois connecté, votre application IPTV affichera trois sections principales :</p>
+          <ul>
+            <li><strong>TV en direct</strong> : Accédez à toutes vos chaînes françaises, sportives et internationales classées par catégorie.</li>
+            <li><strong>Films (VOD)</strong> : Parcourez notre bibliothèque de milliers de films en HD et 4K.</li>
+            <li><strong>Séries</strong> : Retrouvez les séries les plus populaires avec le support de la navigation par saison et épisode.</li>
+          </ul>
+
+          <h2>Résolution des problèmes courants</h2>
+          <h3>L'application ne charge pas la liste de chaînes</h3>
+          <p>Vérifiez que votre connexion internet est active et que les identifiants sont saisis correctement. Assurez-vous qu'il n'y a pas d'espace supplémentaire en début ou fin des champs. Si le problème persiste, contactez notre <a href="../contact.html">support WhatsApp</a> qui vous aidera en temps réel.</p>
+
+          <h3>Image saccadée ou buffering</h3>
+          <p>Privilégiez une connexion filaire (câble Ethernet) à votre routeur plutôt que le Wi-Fi. Si vous utilisez le Wi-Fi, rapprochez votre TV du routeur ou passez votre box en mode 5 GHz. Un débit de 25 Mbps minimum est recommandé pour la 4K HDR. Consultez notre guide sur les <a href="../avantages.html">avantages de notre technologie anti-freeze</a>.</p>
+
+          <div style="background: var(--surface-2); border-left: 3px solid var(--accent); padding: 20px 24px; border-radius: 8px; margin: 32px 0;">
+            <strong style="color: var(--accent);">📺 Besoin d'aide pour un autre appareil ?</strong>
+            <p style="margin: 8px 0 0;">Consultez nos guides dédiés pour <a href="../firestick.html">Amazon Firestick</a>, <a href="../android-tv.html">Android TV Box</a>, <a href="../ios.html">iPhone &amp; Apple TV</a>, <a href="../mag-box.html">MAG Box</a>, ou <a href="../pc-mac.html">PC &amp; Mac</a>.</p>
+          </div>
+
+          <div style="margin-top: 40px; text-align: center;">
+            <a href="https://wa.me/212688017429?text=Bonjour%2C%20j%27ai%20besoin%20d%27aide%20pour%20installer%20IPTV%20sur%20ma%20Smart%20TV." class="btn btn-primary btn-lg" target="_blank" rel="noopener">Aide à l'installation via WhatsApp</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <div class="divider"></div>
+
+  <!-- ══ FOOTER ══ -->
+  <footer class="site-footer">
+    <div class="container footer-top">
+      <div class="footer-brand">
+        <a href="../index.html" class="logo">IPTV<span>Premium</span></a>
+        <p>Diffuseur Premium IPTV de flux vidéo haute qualité. Stable, fluide et sécurisé pour toute la famille en France.</p>
+      </div>
+      <div class="footer-col">
+        <h5>Navigation</h5>
+        <ul>
+          <li><a href="../index.html">Accueil</a></li>
+          <li><a href="../avantages.html">Avantages</a></li>
+          <li><a href="../tarifs.html">Tarifs</a></li>
+          <li><a href="../chaines.html">Chaînes</a></li>
+          <li><a href="../installation.html">Installation</a></li>
+          <li><a href="../faq.html">FAQ</a></li>
+          <li><a href="../blog.html">Blog</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Appareils</h5>
+        <ul>
+          <li><a href="../smart-tv.html">Smart TV</a></li>
+          <li><a href="../android-tv.html">Android TV</a></li>
+          <li><a href="../firestick.html">Amazon Firestick</a></li>
+          <li><a href="../ios.html">iPhone &amp; Apple TV</a></li>
+          <li><a href="../mag-box.html">MAG Box</a></li>
+          <li><a href="../pc-mac.html">PC &amp; Mac</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Support &amp; Légal</h5>
+        <ul>
+          <li><a href="../contact.html">Contact WhatsApp</a></li>
+          <li><a href="../plan-du-site.html">Plan du site</a></li>
+          <li><a href="../conditions-generales.html">Conditions d'utilisation</a></li>
+          <li><a href="../politique-confidentialite.html">Confidentialité</a></li>
+          <li><a href="../politique-remboursement.html">Remboursement</a></li>
+          <li><a href="../politique-cookies.html">Cookies</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>&copy; 2026 IPTV Premium. Tous droits réservés.</p>
+      <div class="legal-links">
+        <a href="../conditions-generales.html">Conditions</a>
+        <a href="../politique-confidentialite.html">Sécurité</a>
+      </div>
+    </div>
+  </footer>
+
+  <a href="https://wa.me/212688017429?text=Bonjour%2C%20je%20souhaite%20avoir%20des%20informations%20sur%20vos%20abonnements%20IPTV%20Premium." class="wa-float" aria-label="WhatsApp Contact" target="_blank" rel="noopener">
+    <div class="ring"></div>
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.4 0 11.973 0c3.184.001 6.177 1.242 8.426 3.496 2.248 2.254 3.487 5.252 3.486 8.44-.003 6.657-5.343 12-11.916 12-2.004-.001-3.973-.505-5.717-1.464L0 24zm6.59-4.846c1.6.95 3.197 1.451 4.785 1.453 5.457 0 9.896-4.378 9.899-9.761.001-2.606-1.012-5.056-2.855-6.902C16.576 2.086 14.135 1.058 11.971 1.058c-5.46 0-9.9 4.379-9.902 9.763-.001 1.704.453 3.371 1.313 4.86l-.995 3.637 3.73-.964z"/></svg>
+  </a>
+  <div class="sticky-cta" id="sticky-cta">
+    <a href="../tarifs.html" class="btn btn-ghost btn-sm">Voir les offres</a>
+    <a href="https://wa.me/212688017429?text=Bonjour%2C%20je%20souhaite%20obtenir%20un%20essai%20gratuit%20de%2024h." class="btn btn-primary btn-sm" target="_blank" rel="noopener">Essai WhatsApp</a>
+  </div>
+
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const stickyCta = document.getElementById('sticky-cta');
+    window.addEventListener('scroll', () => { stickyCta.classList.toggle('show', window.scrollY > 50); });
+    const navToggle = document.querySelector('.nav-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    navToggle.addEventListener('click', () => {
+      const isOpen = mainNav.classList.toggle('open');
+      navToggle.classList.toggle('open');
+      navToggle.setAttribute('aria-expanded', isOpen);
+    });
+    mainNav.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => { mainNav.classList.remove('open'); navToggle.classList.remove('open'); navToggle.setAttribute('aria-expanded', 'false'); });
+    });
+  });
+  </script>
+</body>
+</html>
+

@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Privacybeleid — StreamPlanetTV | GDPR Gegevensbescherming</title>
+  <meta name="description" content="Privacybeleid van StreamPlanetTV. Ontdek welke persoonsgegevens wij verzamelen, hoe wij ze gebruiken en welke rechten u heeft conform de AVG/GDPR regelgeving.">
+  <link rel="canonical" href="https://streamplanettv.online/privacy.html">
+  <link rel="alternate" hreflang="nl" href="https://streamplanettv.online/privacy.html">
+  <link rel="alternate" hreflang="x-default" href="https://streamplanettv.online/">
+  <meta name="robots" content="index, follow">
+  <link rel="icon" type="image/png" href="./favicon.png">
+  <link rel="stylesheet" href="./style.css">
+  <style>
+    .legal-page { max-width: 820px; margin: 0 auto; padding: 60px 24px; }
+    .legal-page h1 { font-size: clamp(1.8rem, 4vw, 2.4rem); margin-bottom: 8px; }
+    .legal-page .last-updated { color: var(--gray-400, #9ca3af); font-size: 0.88rem; margin-bottom: 40px; }
+    .legal-page h2 { font-size: 1.15rem; margin-top: 36px; margin-bottom: 10px; color: var(--accent, #8b5cf6); }
+    .legal-page p, .legal-page li { line-height: 1.8; color: var(--gray-300, #d1d5db); margin-bottom: 12px; font-size: 0.95rem; }
+    .legal-page ul { padding-left: 20px; margin-bottom: 16px; }
+    .legal-page table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.9rem; }
+    .legal-page table th, .legal-page table td { border: 1px solid var(--border, #2d2d44); padding: 12px 16px; text-align: left; }
+    .legal-page table th { background: var(--surface-2, #1a1a2e); color: var(--accent, #8b5cf6); font-weight: 600; }
+    .legal-page table td { color: var(--gray-300, #d1d5db); }
+    .legal-nav { display: flex; gap: 16px; margin-top: 48px; flex-wrap: wrap; }
+    .legal-nav a { color: var(--accent, #8b5cf6); text-decoration: none; font-size: 0.9rem; }
+    .legal-nav a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <header class="site-header scrolled">
+    <div class="container header-row">
+      <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="tarifs.html">Tarieven</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <div class="legal-page">
+      <h1>Privacybeleid</h1>
+      <p class="last-updated">Laatste update: 23 juni 2026 | Versie 1.2</p>
+
+      <p>Bij StreamPlanetTV nemen we uw privacy zeer serieus. Dit privacybeleid legt uit welke persoonsgegevens wij verzamelen, waarom wij ze verwerken, hoe lang we ze bewaren en welke rechten u als betrokkene heeft. Wij handelen in overeenstemming met de Algemene Verordening Gegevensbescherming (AVG/GDPR).</p>
+
+      <h2>1. Verantwoordelijke voor de verwerking</h2>
+      <p>StreamPlanetTV is de verantwoordelijke voor de verwerking van uw persoonsgegevens in de zin van de AVG.</p>
+      <ul>
+        <li><strong>Bedrijfsnaam</strong>: StreamPlanetTV</li>
+        <li><strong>Website</strong>: https://streamplanettv.online/</li>
+        <li><strong>E-mail</strong>: privacy@streamplanettv.online</li>
+        <li><strong>Contact</strong>: Via onze contactpagina of WhatsApp</li>
+      </ul>
+
+      <h2>2. Welke gegevens verzamelen wij?</h2>
+      <p>Wij verzamelen alleen de gegevens die strikt noodzakelijk zijn voor het leveren van onze diensten:</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Type gegeven</th>
+            <th>Omschrijving</th>
+            <th>Doel</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Contactgegevens</td>
+            <td>WhatsApp-nummer, naam (indien opgegeven)</td>
+            <td>Levering van abonnement en klantenservice</td>
+          </tr>
+          <tr>
+            <td>Technische gegevens</td>
+            <td>IP-adres (geanonimiseerd), apparaattype, browser</td>
+            <td>Beveiliging en optimalisatie van de dienst</td>
+          </tr>
+          <tr>
+            <td>Gebruiksgegevens</td>
+            <td>Paginabezoeken, sessieduur (anoniem via analytics)</td>
+            <td>Verbetering van de website-ervaring</td>
+          </tr>
+          <tr>
+            <td>Betalingsinformatie</td>
+            <td>Transactiereferenties (GEEN bankgegevens — verwerkt door derden)</td>
+            <td>Facturatie en betalingsbevestiging</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h2>3. Rechtsgronden voor verwerking</h2>
+      <p>Wij verwerken uw persoonsgegevens op basis van de volgende rechtsgronden:</p>
+      <ul>
+        <li><strong>Uitvoering van een overeenkomst</strong>: Om uw abonnement te activeren en klantenservice te verlenen.</li>
+        <li><strong>Gerechtvaardigd belang</strong>: Voor beveiliging van onze systemen en fraudepreventie.</li>
+        <li><strong>Wettelijke verplichting</strong>: Om te voldoen aan fiscale en wettelijke bewaarplichten.</li>
+        <li><strong>Toestemming</strong>: Voor het plaatsen van niet-essentiële cookies (u kunt uw toestemming op elk moment intrekken).</li>
+      </ul>
+
+      <h2>4. Hoe lang bewaren wij uw gegevens?</h2>
+      <p>Wij bewaren uw persoonsgegevens niet langer dan noodzakelijk voor de doeleinden waarvoor ze zijn verzameld:</p>
+      <ul>
+        <li><strong>Klantgegevens en abonnementshistorie</strong>: 3 jaar na afloop van het abonnement (conform boekhoudkundige verplichtingen).</li>
+        <li><strong>Communicatielogboeken (WhatsApp)</strong>: Maximaal 1 jaar.</li>
+        <li><strong>Technische logs en IP-adressen</strong>: Maximaal 90 dagen, anoniem gearchiveerd.</li>
+        <li><strong>Analytische gegevens</strong>: 26 maanden (geanonimiseerd).</li>
+      </ul>
+
+      <h2>5. Delen wij uw gegevens met derden?</h2>
+      <p>StreamPlanetTV verkoopt uw persoonsgegevens nooit aan derden. Wij kunnen gegevens delen met:</p>
+      <ul>
+        <li><strong>Betaalverwerkers</strong>: Voor de verwerking van betalingstransacties (zij hanteren hun eigen privacybeleid).</li>
+        <li><strong>Analytische diensten</strong>: Geanonimiseerde statistieken (geen persoonlijk identificeerbare informatie).</li>
+        <li><strong>Bevoegde autoriteiten</strong>: Uitsluitend wanneer wettelijk verplicht.</li>
+      </ul>
+
+      <h2>6. Uw rechten als betrokkene</h2>
+      <p>Conform de AVG heeft u de volgende rechten met betrekking tot uw persoonsgegevens:</p>
+      <ul>
+        <li><strong>Recht op inzage</strong>: U kunt een kopie opvragen van de persoonsgegevens die wij over u bewaren.</li>
+        <li><strong>Recht op rectificatie</strong>: U kunt onjuiste of onvolledige gegevens laten corrigeren.</li>
+        <li><strong>Recht op verwijdering</strong>: U kunt verzoeken uw gegevens te wissen ("recht om vergeten te worden").</li>
+        <li><strong>Recht op beperking</strong>: U kunt de verwerking van uw gegevens laten beperken.</li>
+        <li><strong>Recht op dataportabiliteit</strong>: U kunt uw gegevens in een gestructureerd, machineleesbaar formaat ontvangen.</li>
+        <li><strong>Recht van bezwaar</strong>: U kunt bezwaar maken tegen de verwerking op basis van gerechtvaardigd belang.</li>
+      </ul>
+      <p>Om een van deze rechten uit te oefenen, neemt u contact op via <strong>privacy@streamplanettv.online</strong>. Wij reageren binnen 30 dagen op uw verzoek.</p>
+
+      <h2>7. Cookies en trackingtechnologieën</h2>
+      <p>Onze website maakt gebruik van cookies voor de werking van de site en anonieme statistieken. Voor meer informatie verwijzen wij u naar ons uitgebreide <a href="politique-cookies.html" style="color: var(--accent, #8b5cf6);">cookiebeleid</a>. U kunt uw cookievoorkeuren op elk moment aanpassen via de cookiebanner.</p>
+
+      <h2>8. Beveiliging van uw gegevens</h2>
+      <p>StreamPlanetTV neemt passende technische en organisatorische maatregelen om uw persoonsgegevens te beveiligen tegen ongeoorloofde toegang, verlies of misbruik. Hieronder vallen onder meer versleutelde communicatie (HTTPS), toegangscontroles en regelmatige beveiligingsaudits.</p>
+
+      <h2>9. Klachten</h2>
+      <p>Als u van mening bent dat wij uw persoonsgegevens niet correct verwerken, kunt u een klacht indienen bij de nationale toezichthoudende autoriteit. Voor Nederland is dit de <strong>Autoriteit Persoonsgegevens</strong> (autoriteitpersoonsgegevens.nl).</p>
+
+      <h2>10. Wijzigingen in dit privacybeleid</h2>
+      <p>StreamPlanetTV behoudt zich het recht voor dit privacybeleid op elk moment te wijzigen. Wezenlijke wijzigingen worden bekendgemaakt via de website. Wij raden u aan dit beleid periodiek te raadplegen.</p>
+
+      <nav class="legal-nav">
+        <a href="/">← Terug naar home</a>
+        <a href="terms.html">Algemene Voorwaarden</a>
+        <a href="politique-cookies.html">Cookiebeleid</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-bottom">
+      <p>&copy; 2026 StreamPlanetTV. Alle rechten voorbehouden.</p>
+    </div>
+  </footer>
+</body>
+</html>

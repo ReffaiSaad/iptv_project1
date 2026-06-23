@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politique de Cookies — IPTV Premium</title>
+  <meta name="description" content="Politique de cookies d'IPTV Premium : quels cookies nous utilisons, à quoi ils servent et comment les gérer ou les refuser facilement.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://streamplanettv.online/politique-cookies.html">
+  <link rel="alternate" hreflang="nl-NL" href="https://streamplanettv.online/politique-cookies.html">
+  <link rel="alternate" hreflang="x-default" href="https://streamplanettv.online/">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Passer au contenu principal</a>
+  <header class="site-header scrolled">
+    <div class="container header-row">
+      <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+      <nav class="main-nav">
+        <a href="index.html">Accueil</a><a href="tarifs.html">Tarifs</a><a href="faq.html">FAQ</a><a href="contact.html">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <a href="tarifs.html" class="btn btn-primary btn-sm">S'abonner</a>
+        <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section class="page-header">
+      <div class="container">
+        <div class="crumb"><a href="index.html">Accueil</a> &gt; <span>Politique de Cookies</span></div>
+        <h1>Politique de Cookies</h1>
+        <p style="font-size: 0.82rem; color: var(--gray-400); margin-top: 6px;">Dernière mise à jour : 19 Juin 2026</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="legal-body">
+
+          <h2>Qu'est-ce qu'un cookie ?</h2>
+          <p>Un cookie est un petit fichier texte déposé sur votre terminal (ordinateur, smartphone, tablette) lors de votre visite sur notre site internet. Les cookies nous permettent de vous reconnaître lors de vos visites ultérieures et d'améliorer votre expérience de navigation.</p>
+          <p>Conformément à la directive ePrivacy et aux recommandations de la CNIL, certains cookies nécessitent votre consentement préalable avant d'être déposés sur votre terminal.</p>
+
+          <h2>Les cookies utilisés sur streamplanettv.online</h2>
+
+          <h3>Cookies strictement nécessaires (aucun consentement requis)</h3>
+          <p>Ces cookies sont indispensables au bon fonctionnement du site et ne peuvent pas être désactivés :</p>
+          <ul>
+            <li><strong>cookie_consent :</strong> mémorise vos préférences en matière de cookies. Durée : 12 mois.</li>
+            <li><strong>session_id :</strong> identifie votre session de navigation pour assurer la cohérence de votre expérience. Durée : session (supprimé à la fermeture du navigateur).</li>
+          </ul>
+
+          <h3>Cookies analytiques (consentement requis)</h3>
+          <p>Ces cookies nous aident à comprendre comment les visiteurs utilisent notre site, en collectant des données anonymisées sur les pages visitées et le temps passé :</p>
+          <ul>
+            <li><strong>_ga, _gid, _gat (Google Analytics 4) :</strong> mesure d'audience anonymisée. Les adresses IP sont anonymisées avant traitement. Durée : 2 ans maximum.</li>
+          </ul>
+          <p>Ces cookies ne sont déposés qu'après votre consentement explicite via notre bandeau de gestion des cookies.</p>
+
+          <h3>Cookies de performance (consentement requis)</h3>
+          <p>Ces cookies permettent d'optimiser les performances du site et de personnaliser votre expérience en mémorisant vos préférences de navigation.</p>
+
+          <h2>Comment gérer vos cookies</h2>
+          <p>Vous pouvez à tout moment modifier vos préférences en matière de cookies de plusieurs façons :</p>
+
+          <h3>Via votre navigateur</h3>
+          <p>Chaque navigateur propose des options permettant de gérer les cookies. Voici les liens vers les pages d'aide des principaux navigateurs :</p>
+          <ul>
+            <li><strong>Google Chrome :</strong> Paramètres → Confidentialité et sécurité → Cookies.</li>
+            <li><strong>Mozilla Firefox :</strong> Options → Vie privée et sécurité → Cookies et données de sites.</li>
+            <li><strong>Apple Safari :</strong> Préférences → Confidentialité → Gérer les données de sites web.</li>
+            <li><strong>Microsoft Edge :</strong> Paramètres → Confidentialité, recherche et services → Cookies.</li>
+          </ul>
+          <p>Notez que la désactivation des cookies peut affecter le bon fonctionnement de certaines fonctionnalités du site.</p>
+
+          <h3>Via notre outil de gestion des consentements</h3>
+          <p>Un bandeau de gestion des cookies s'affiche lors de votre première visite. Vous pouvez y accepter ou refuser les cookies non essentiels. Vous pouvez modifier vos choix à tout moment en contactant notre équipe via la page <a href="contact.html">Contact</a>.</p>
+
+          <h2>Cookies tiers</h2>
+          <p>Notre site peut contenir des liens vers des services tiers (WhatsApp, réseaux sociaux). Ces services peuvent déposer leurs propres cookies sur votre terminal, soumis à leurs propres politiques de confidentialité. Nous n'avons aucun contrôle sur ces cookies tiers.</p>
+
+          <h2>Contact</h2>
+          <p>Pour toute question relative à notre utilisation des cookies, contactez-nous via notre page <a href="contact.html">Contact</a>.</p>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="divider"></div>
+  <footer class="site-footer">
+    <div class="container footer-bottom">
+      <p>&copy; 2026 IPTV Premium. Tous droits réservés.</p>
+      <div class="legal-links">
+        <a href="conditions-generales.html">Conditions</a>
+        <a href="politique-confidentialite.html">Sécurité</a>
+      </div>
+    </div>
+  </footer>
+  <a href="https://wa.me/212688017429?text=Bonjour%2C%20je%20souhaite%20des%20informations." class="wa-float" aria-label="WhatsApp" target="_blank" rel="noopener">
+    <div class="ring"></div>
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.4 0 11.973 0c3.184.001 6.177 1.242 8.426 3.496 2.248 2.254 3.487 5.252 3.486 8.44-.003 6.657-5.343 12-11.916 12-2.004-.001-3.973-.505-5.717-1.464L0 24zm6.59-4.846c1.6.95 3.197 1.451 4.785 1.453 5.457 0 9.896-4.378 9.899-9.761.001-2.606-1.012-5.056-2.855-6.902C16.576 2.086 14.135 1.058 11.971 1.058c-5.46 0-9.9 4.379-9.902 9.763-.001 1.704.453 3.371 1.313 4.86l-.995 3.637 3.73-.964z"/></svg>
+  </a>
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const navToggle = document.querySelector('.nav-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    navToggle.addEventListener('click', () => { const o = mainNav.classList.toggle('open'); navToggle.classList.toggle('open'); navToggle.setAttribute('aria-expanded', o); });
+    mainNav.querySelectorAll('a').forEach(l => l.addEventListener('click', () => { mainNav.classList.remove('open'); navToggle.classList.remove('open'); navToggle.setAttribute('aria-expanded','false'); }));
+  });
+  </script>
+</body>
+</html>
+

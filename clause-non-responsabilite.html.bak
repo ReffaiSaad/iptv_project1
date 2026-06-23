@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clause de Non-Responsabilité — IPTV Premium</title>
+  <meta name="description" content="Clause de non-responsabilité d'IPTV Premium : limites de garantie, exactitude des informations et responsabilité de l'utilisateur concernant l'usage du service.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://streamplanettv.online/clause-non-responsabilite.html">
+  <link rel="alternate" hreflang="nl-NL" href="https://streamplanettv.online/clause-non-responsabilite.html">
+  <link rel="alternate" hreflang="x-default" href="https://streamplanettv.online/">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Passer au contenu principal</a>
+  <header class="site-header scrolled">
+    <div class="container header-row">
+      <a href="index.html" class="logo">IPTV<span>Premium</span></a>
+      <nav class="main-nav">
+        <a href="index.html">Accueil</a><a href="tarifs.html">Tarifs</a><a href="faq.html">FAQ</a><a href="contact.html">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <a href="tarifs.html" class="btn btn-primary btn-sm">S'abonner</a>
+        <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section class="page-header">
+      <div class="container">
+        <div class="crumb"><a href="index.html">Accueil</a> &gt; <span>Clause de Non-Responsabilité</span></div>
+        <h1>Clause de Non-Responsabilité</h1>
+        <p style="font-size: 0.82rem; color: var(--gray-400); margin-top: 6px;">Dernière mise à jour : 19 Juin 2026</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="legal-body">
+
+          <h2>Informations générales</h2>
+          <p>Les informations publiées sur le site internet <strong>streamplanettv.online</strong> sont fournies à titre informatif uniquement. Bien que nous nous efforcions de maintenir ces informations à jour et exactes, IPTV Premium ne saurait être tenu responsable des erreurs, omissions ou inexactitudes pouvant figurer dans le contenu du site.</p>
+
+          <h2>Disponibilité du service</h2>
+          <p>IPTV Premium s'engage à faire ses meilleurs efforts pour assurer la disponibilité continue de son service. Cependant, des interruptions peuvent survenir pour les raisons suivantes, sans que la responsabilité d'IPTV Premium ne puisse être engagée :</p>
+          <ul>
+            <li>Opérations de maintenance planifiées ou d'urgence sur les serveurs.</li>
+            <li>Défaillances de réseaux tiers (fournisseurs d'accès à internet, opérateurs de backbone).</li>
+            <li>Événements de force majeure (catastrophes naturelles, attaques informatiques, conflits, pandémies).</li>
+            <li>Modifications réglementaires ou juridiques imposant une restriction ou un arrêt du service.</li>
+            <li>Problèmes liés à l'équipement ou à la connexion internet de l'utilisateur.</li>
+          </ul>
+
+          <h2>Responsabilité de l'utilisateur</h2>
+          <p>L'utilisateur du service IPTV Premium est seul responsable de l'usage qu'il fait du service, dans le respect des lois et réglementations en vigueur dans son pays de résidence. Il appartient à chaque utilisateur de :</p>
+          <ul>
+            <li>Vérifier la conformité légale de l'utilisation du service dans sa juridiction.</li>
+            <li>Ne pas utiliser le service pour accéder à des contenus protégés sans autorisation des ayants droit.</li>
+            <li>Maintenir la confidentialité de ses identifiants de connexion.</li>
+            <li>S'assurer que son équipement répond aux conditions techniques minimales pour bénéficier du service.</li>
+          </ul>
+
+          <h2>Limitation de garantie</h2>
+          <p>Le service est fourni « en l'état » et « selon disponibilité ». IPTV Premium ne garantit pas que le service sera exempt d'interruptions, d'erreurs ou de défauts techniques. Dans les limites permises par la loi applicable, IPTV Premium exclut toute garantie implicite de qualité marchande, d'adéquation à un usage particulier et de non-violation des droits de tiers.</p>
+
+          <h2>Liens hypertextes</h2>
+          <p>Le site streamplanettv.online peut contenir des liens vers des sites tiers. IPTV Premium n'assume aucune responsabilité quant au contenu, à la disponibilité ou aux pratiques de confidentialité de ces sites tiers. L'inclusion d'un lien ne constitue pas une approbation ou une recommandation de notre part.</p>
+
+          <h2>Droit applicable</h2>
+          <p>La présente clause de non-responsabilité est régie par le droit français. Tout litige découlant de son interprétation ou de son application sera soumis aux juridictions compétentes françaises.</p>
+
+          <h2>Contact</h2>
+          <p>Pour toute question, contactez notre équipe via la page <a href="contact.html">Contact</a>.</p>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="divider"></div>
+  <footer class="site-footer">
+    <div class="container footer-bottom">
+      <p>&copy; 2026 IPTV Premium. Tous droits réservés.</p>
+      <div class="legal-links">
+        <a href="conditions-generales.html">Conditions</a>
+        <a href="politique-confidentialite.html">Sécurité</a>
+      </div>
+    </div>
+  </footer>
+  <a href="https://wa.me/212688017429?text=Bonjour%2C%20je%20souhaite%20des%20informations." class="wa-float" aria-label="WhatsApp" target="_blank" rel="noopener">
+    <div class="ring"></div>
+    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946C.06 5.348 5.4 0 11.973 0c3.184.001 6.177 1.242 8.426 3.496 2.248 2.254 3.487 5.252 3.486 8.44-.003 6.657-5.343 12-11.916 12-2.004-.001-3.973-.505-5.717-1.464L0 24zm6.59-4.846c1.6.95 3.197 1.451 4.785 1.453 5.457 0 9.896-4.378 9.899-9.761.001-2.606-1.012-5.056-2.855-6.902C16.576 2.086 14.135 1.058 11.971 1.058c-5.46 0-9.9 4.379-9.902 9.763-.001 1.704.453 3.371 1.313 4.86l-.995 3.637 3.73-.964z"/></svg>
+  </a>
+  <script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const navToggle = document.querySelector('.nav-toggle');
+    const mainNav = document.querySelector('.main-nav');
+    navToggle.addEventListener('click', () => { const o = mainNav.classList.toggle('open'); navToggle.classList.toggle('open'); navToggle.setAttribute('aria-expanded', o); });
+    mainNav.querySelectorAll('a').forEach(l => l.addEventListener('click', () => { mainNav.classList.remove('open'); navToggle.classList.remove('open'); navToggle.setAttribute('aria-expanded','false'); }));
+  });
+  </script>
+</body>
+</html>
+
