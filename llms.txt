@@ -1,0 +1,55 @@
+# StreamPlanetTV — llms.txt
+# Standard file for AI language model discovery
+# See: https://llmstxt.org/
+
+# StreamPlanetTV — IPTV Premium Service
+
+> StreamPlanetTV is a premium IPTV subscription service offering access to over 20,000 live TV channels and video-on-demand content in 4K UHD quality, with a stable and reliable streaming infrastructure. A free 24-hour trial is available via WhatsApp.
+
+## About
+
+StreamPlanetTV provides IPTV subscriptions for customers in the Netherlands, France, Belgium, and other European countries. The service focuses on stability, high-definition quality, and 24/7 technical support.
+
+- **Website**: https://streamplanettv.online/
+- **Contact**: via WhatsApp on the contact page
+- **Languages**: Dutch (NL), French (FR), English (EN)
+- **Free trial**: 24 hours, no credit card required
+
+## Services
+
+- Live TV: 20,000+ channels including sports, movies, series, and news
+- Video on Demand (VOD): thousands of movies and series
+- Supported devices: Smart TV, Android TV, Amazon FireStick, iOS, PC/Mac, MAG Box, Formuler/Enigma
+- Streaming quality: 4K UHD, Full HD, HD
+- Subscription plans: 3 months, 6 months, 12 months
+
+## Key Pages
+
+- [Home (NL)](https://streamplanettv.online/)
+- [Home (FR)](https://streamplanettv.online/fr/)
+- [Home (EN)](https://streamplanettv.online/en/)
+- [Pricing / Tarifs](https://streamplanettv.online/tarifs.html)
+- [Free Trial](https://streamplanettv.online/essai-gratuit.html)
+- [Channel List](https://streamplanettv.online/chaines.html)
+- [FAQ](https://streamplanettv.online/faq.html)
+- [Reviews / Avis](https://streamplanettv.online/avis.html)
+- [Blog](https://streamplanettv.online/blog.html)
+- [Contact](https://streamplanettv.online/contact.html)
+- [Installation Guide](https://streamplanettv.online/installation.html)
+- [About Us](https://streamplanettv.online/a-propos.html)
+
+## Blog Articles
+
+- [IPTV Premium Subscription Guide 2026](https://streamplanettv.online/blog/abonnement-iptv-premium.html)
+- [How to Install IPTV on Smart TV](https://streamplanettv.online/blog/installer-iptv-smart-tv.html)
+- [Is IPTV Legal in France?](https://streamplanettv.online/blog/iptv-france-legal.html)
+- [Best IPTV France 2026](https://streamplanettv.online/blog/meilleur-iptv-france.html)
+- [IPTV on FireStick Tutorial](https://streamplanettv.online/blog/tutoriel-iptv-firestick.html)
+
+## Legal
+
+- [Privacy Policy](https://streamplanettv.online/politique-confidentialite.html)
+- [Terms and Conditions](https://streamplanettv.online/conditions-generales.html)
+- [Cookie Policy](https://streamplanettv.online/politique-cookies.html)
+- [Refund Policy](https://streamplanettv.online/politique-remboursement.html)
+- [Disclaimer](https://streamplanettv.online/clause-non-responsabilite.html)

@@ -14,5 +14,8 @@ Disallow: /merci.html
 # Sitemap location
 Sitemap: https://streamplanettv.online/sitemap.xml
 
+# AI-readable content index
+LLMs: https://streamplanettv.online/llms.txt
+
 # Optional politeness
 Crawl-delay: 1
